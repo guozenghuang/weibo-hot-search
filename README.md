@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-06-12 02:23:19
+最后更新时间 2022-06-12 03:15:42
 
 1. [唐山打人事件由廊坊警方侦办](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%B1%B1%E6%89%93%E4%BA%BA%E4%BA%8B%E4%BB%B6%E7%94%B1%E5%BB%8A%E5%9D%8A%E8%AD%A6%E6%96%B9%E4%BE%A6%E5%8A%9E%23&Refer=top) 15991264
 1. [起底唐山打人者累累案底](https://s.weibo.com/weibo?q=%23%E8%B5%B7%E5%BA%95%E5%94%90%E5%B1%B1%E6%89%93%E4%BA%BA%E8%80%85%E7%B4%AF%E7%B4%AF%E6%A1%88%E5%BA%95%23&Refer=top) 8441567
@@ -62,6 +62,7 @@
 1. [中国军队枕戈待旦捍卫领土完整](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%9B%E9%98%9F%E6%9E%95%E6%88%88%E5%BE%85%E6%97%A6%E6%8D%8D%E5%8D%AB%E9%A2%86%E5%9C%9F%E5%AE%8C%E6%95%B4%23&Refer=top) 280002
 1. [满船清梦压星河](https://s.weibo.com/weibo?q=%23%E6%BB%A1%E8%88%B9%E6%B8%85%E6%A2%A6%E5%8E%8B%E6%98%9F%E6%B2%B3%23&Refer=top) 258268
 1. [许嵩 忆黄山](https://s.weibo.com/weibo?q=%E8%AE%B8%E5%B5%A9%20%E5%BF%86%E9%BB%84%E5%B1%B1&Refer=top) 222837
+1. [梦华录 船戏](https://s.weibo.com/weibo?q=%E6%A2%A6%E5%8D%8E%E5%BD%95%20%E8%88%B9%E6%88%8F&Refer=top) 220524
 1. [三星堆出土中分发型人像](https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%98%9F%E5%A0%86%E5%87%BA%E5%9C%9F%E4%B8%AD%E5%88%86%E5%8F%91%E5%9E%8B%E4%BA%BA%E5%83%8F%23&Refer=top) 217145
 1. [六级答案](https://s.weibo.com/weibo?q=%23%E5%85%AD%E7%BA%A7%E7%AD%94%E6%A1%88%23&Refer=top) 216250
 1. [周冠宇](https://s.weibo.com/weibo?q=%E5%91%A8%E5%86%A0%E5%AE%87&Refer=top) 213715
@@ -69,9 +70,9 @@
 1. [男子制止大妈踩花田拍照被围着骂](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%88%B6%E6%AD%A2%E5%A4%A7%E5%A6%88%E8%B8%A9%E8%8A%B1%E7%94%B0%E6%8B%8D%E7%85%A7%E8%A2%AB%E5%9B%B4%E7%9D%80%E9%AA%82%23&Refer=top) 182385
 1. [张杰天问](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%A4%A9%E9%97%AE%23&Refer=top) 177713
 1. [needy](https://s.weibo.com/weibo?q=needy&Refer=top) 162060
-1. [梦华录 船戏](https://s.weibo.com/weibo?q=%E6%A2%A6%E5%8D%8E%E5%BD%95%20%E8%88%B9%E6%88%8F&Refer=top) 161465
 1. [3名外卖小哥联手抓住小偷](https://s.weibo.com/weibo?q=%233%E5%90%8D%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E8%81%94%E6%89%8B%E6%8A%93%E4%BD%8F%E5%B0%8F%E5%81%B7%23&Refer=top) 137354
 1. [平价雪糕也好吃](https://s.weibo.com/weibo?q=%23%E5%B9%B3%E4%BB%B7%E9%9B%AA%E7%B3%95%E4%B9%9F%E5%A5%BD%E5%90%83%23&Refer=top) 135374
+1. [唐山恶性伤人事件我们因何愤怒](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%B1%B1%E6%81%B6%E6%80%A7%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6%E6%88%91%E4%BB%AC%E5%9B%A0%E4%BD%95%E6%84%A4%E6%80%92%23&Refer=top) 103768
 1. [上海红玫瑰美容院停业整顿](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%BA%A2%E7%8E%AB%E7%91%B0%E7%BE%8E%E5%AE%B9%E9%99%A2%E5%81%9C%E4%B8%9A%E6%95%B4%E9%A1%BF%23&Refer=top) 88288
 1. [黄礼志申留真双人舞](https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%A4%BC%E5%BF%97%E7%94%B3%E7%95%99%E7%9C%9F%E5%8F%8C%E4%BA%BA%E8%88%9E%23&Refer=top) 76380
 1. [欧国联](https://s.weibo.com/weibo?q=%23%E6%AC%A7%E5%9B%BD%E8%81%94%23&Refer=top) 68856
