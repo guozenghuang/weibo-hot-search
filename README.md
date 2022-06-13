@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-06-14 00:32:44
+最后更新时间 2022-06-14 02:27:35
 
 1. [唐山被打女子已转入普通病房](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%B1%B1%E8%A2%AB%E6%89%93%E5%A5%B3%E5%AD%90%E5%B7%B2%E8%BD%AC%E5%85%A5%E6%99%AE%E9%80%9A%E7%97%85%E6%88%BF%23&Refer=top) 7036196
 1. [六公主好宠](https://s.weibo.com/weibo?q=%E5%85%AD%E5%85%AC%E4%B8%BB%E5%A5%BD%E5%AE%A0&Refer=top) 2188897
@@ -45,6 +45,7 @@
 1. [玉林师范学院通报学生将热面泼同学脸上](https://s.weibo.com/weibo?q=%23%E7%8E%89%E6%9E%97%E5%B8%88%E8%8C%83%E5%AD%A6%E9%99%A2%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E5%B0%86%E7%83%AD%E9%9D%A2%E6%B3%BC%E5%90%8C%E5%AD%A6%E8%84%B8%E4%B8%8A%23&Refer=top) 339237
 1. [牺牲消防员刘泽军女友发的信息让人泪目](https://s.weibo.com/weibo?q=%23%E7%89%BA%E7%89%B2%E6%B6%88%E9%98%B2%E5%91%98%E5%88%98%E6%B3%BD%E5%86%9B%E5%A5%B3%E5%8F%8B%E5%8F%91%E7%9A%84%E4%BF%A1%E6%81%AF%E8%AE%A9%E4%BA%BA%E6%B3%AA%E7%9B%AE%23&Refer=top) 334995
 1. [怀孕后有个好队友有多重要](https://s.weibo.com/weibo?q=%23%E6%80%80%E5%AD%95%E5%90%8E%E6%9C%89%E4%B8%AA%E5%A5%BD%E9%98%9F%E5%8F%8B%E6%9C%89%E5%A4%9A%E9%87%8D%E8%A6%81%23&Refer=top) 318138
+1. [比特币跌破24000美元](https://s.weibo.com/weibo?q=%23%E6%AF%94%E7%89%B9%E5%B8%81%E8%B7%8C%E7%A0%B424000%E7%BE%8E%E5%85%83%23&Refer=top) 278996
 1. [日本网暴者最长可被判1年监禁](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BD%91%E6%9A%B4%E8%80%85%E6%9C%80%E9%95%BF%E5%8F%AF%E8%A2%AB%E5%88%A41%E5%B9%B4%E7%9B%91%E7%A6%81%23&Refer=top) 258325
 1. [遇见彩虹 吃定彩虹](https://s.weibo.com/weibo?q=%E9%81%87%E8%A7%81%E5%BD%A9%E8%99%B9%20%E5%90%83%E5%AE%9A%E5%BD%A9%E8%99%B9&Refer=top) 252783
 1. [油价上涨燃油车还有必要买吗](https://s.weibo.com/weibo?q=%23%E6%B2%B9%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%87%83%E6%B2%B9%E8%BD%A6%E8%BF%98%E6%9C%89%E5%BF%85%E8%A6%81%E4%B9%B0%E5%90%97%23&Refer=top) 248419
@@ -69,6 +70,8 @@
 1. [云南文山失联男童已不幸死亡](https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%97%E6%96%87%E5%B1%B1%E5%A4%B1%E8%81%94%E7%94%B7%E7%AB%A5%E5%B7%B2%E4%B8%8D%E5%B9%B8%E6%AD%BB%E4%BA%A1%23&Refer=top) 107822
 1. [这就是专属于毕业季的浪漫吧](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E4%B8%93%E5%B1%9E%E4%BA%8E%E6%AF%95%E4%B8%9A%E5%AD%A3%E7%9A%84%E6%B5%AA%E6%BC%AB%E5%90%A7%23&Refer=top) 96739
 1. [北斗也参与了小麦收割](https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%96%97%E4%B9%9F%E5%8F%82%E4%B8%8E%E4%BA%86%E5%B0%8F%E9%BA%A6%E6%94%B6%E5%89%B2%23&Refer=top) 71065
+1. [北京12日新增均与酒吧疫情关联](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC12%E6%97%A5%E6%96%B0%E5%A2%9E%E5%9D%87%E4%B8%8E%E9%85%92%E5%90%A7%E7%96%AB%E6%83%85%E5%85%B3%E8%81%94&Refer=top) 47046
+1. [用水在茶上作画的非遗技艺](https://s.weibo.com/weibo?q=%23%E7%94%A8%E6%B0%B4%E5%9C%A8%E8%8C%B6%E4%B8%8A%E4%BD%9C%E7%94%BB%E7%9A%84%E9%9D%9E%E9%81%97%E6%8A%80%E8%89%BA%23&Refer=top) 40872
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
