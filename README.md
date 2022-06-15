@@ -17,20 +17,21 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-06-16 00:29:31
+最后更新时间 2022-06-16 01:22:00
 
 1. [iPhone14](https://s.weibo.com/weibo?q=iPhone14&Refer=top) 2129113
 1. [求救电话只有喘息声调度员定位救人](https://s.weibo.com/weibo?q=%23%E6%B1%82%E6%95%91%E7%94%B5%E8%AF%9D%E5%8F%AA%E6%9C%89%E5%96%98%E6%81%AF%E5%A3%B0%E8%B0%83%E5%BA%A6%E5%91%98%E5%AE%9A%E4%BD%8D%E6%95%91%E4%BA%BA%23&Refer=top) 1881722
+1. [生父回应婴儿发热被送方舱后死亡](https://s.weibo.com/weibo?q=%23%E7%94%9F%E7%88%B6%E5%9B%9E%E5%BA%94%E5%A9%B4%E5%84%BF%E5%8F%91%E7%83%AD%E8%A2%AB%E9%80%81%E6%96%B9%E8%88%B1%E5%90%8E%E6%AD%BB%E4%BA%A1%23&Refer=top) 1717505
 1. [沉浸式体验3000年前古蜀国](https://s.weibo.com/weibo?q=%23%E6%B2%89%E6%B5%B8%E5%BC%8F%E4%BD%93%E9%AA%8C3000%E5%B9%B4%E5%89%8D%E5%8F%A4%E8%9C%80%E5%9B%BD%23&Refer=top) 1498225
 1. [回廊亭 失望](https://s.weibo.com/weibo?q=%E5%9B%9E%E5%BB%8A%E4%BA%AD%20%E5%A4%B1%E6%9C%9B&Refer=top) 1401955
-1. [生父回应婴儿发热被送方舱后死亡](https://s.weibo.com/weibo?q=%23%E7%94%9F%E7%88%B6%E5%9B%9E%E5%BA%94%E5%A9%B4%E5%84%BF%E5%8F%91%E7%83%AD%E8%A2%AB%E9%80%81%E6%96%B9%E8%88%B1%E5%90%8E%E6%AD%BB%E4%BA%A1%23&Refer=top) 1356315
+1. [东航回应核酸过3分钟无法登机](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E8%88%AA%E5%9B%9E%E5%BA%94%E6%A0%B8%E9%85%B8%E8%BF%873%E5%88%86%E9%92%9F%E6%97%A0%E6%B3%95%E7%99%BB%E6%9C%BA%23&Refer=top) 1361918
 1. [叫他千帆](https://s.weibo.com/weibo?q=%23%E5%8F%AB%E4%BB%96%E5%8D%83%E5%B8%86%23&Refer=top) 614012
 1. [国家统计局谈统计造假](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E7%BB%9F%E8%AE%A1%E5%B1%80%E8%B0%88%E7%BB%9F%E8%AE%A1%E9%80%A0%E5%81%87%23&Refer=top) 558397
 1. [一点点被曝喝出苍蝇](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%82%B9%E7%82%B9%E8%A2%AB%E6%9B%9D%E5%96%9D%E5%87%BA%E8%8B%8D%E8%9D%87%23&Refer=top) 533025
 1. [iPhone13](https://s.weibo.com/weibo?q=%23iPhone13%23&Refer=top) 527178
 1. [陕西高考前失联女孩已去世](https://s.weibo.com/weibo?q=%23%E9%99%95%E8%A5%BF%E9%AB%98%E8%80%83%E5%89%8D%E5%A4%B1%E8%81%94%E5%A5%B3%E5%AD%A9%E5%B7%B2%E5%8E%BB%E4%B8%96%23&Refer=top) 519572
+1. [孙海洋回应索赔500万元](https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%B5%B7%E6%B4%8B%E5%9B%9E%E5%BA%94%E7%B4%A2%E8%B5%94500%E4%B8%87%E5%85%83%23&Refer=top) 505775
 1. [女子吃桃吃出蜈蚣被咬成香肠嘴](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%90%83%E6%A1%83%E5%90%83%E5%87%BA%E8%9C%88%E8%9A%A3%E8%A2%AB%E5%92%AC%E6%88%90%E9%A6%99%E8%82%A0%E5%98%B4%23&Refer=top) 494797
-1. [孙海洋回应索赔500万元](https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%B5%B7%E6%B4%8B%E5%9B%9E%E5%BA%94%E7%B4%A2%E8%B5%94500%E4%B8%87%E5%85%83%23&Refer=top) 490147
 1. [刘畊宏直播](https://s.weibo.com/weibo?q=%E5%88%98%E7%95%8A%E5%AE%8F%E7%9B%B4%E6%92%AD&Refer=top) 435503
 1. [宋祖儿 热烈](https://s.weibo.com/weibo?q=%E5%AE%8B%E7%A5%96%E5%84%BF%20%E7%83%AD%E7%83%88&Refer=top) 426047
 1. [江苏省人民检察院党组副书记赵志刚被查](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E7%9C%81%E4%BA%BA%E6%B0%91%E6%A3%80%E5%AF%9F%E9%99%A2%E5%85%9A%E7%BB%84%E5%89%AF%E4%B9%A6%E8%AE%B0%E8%B5%B5%E5%BF%97%E5%88%9A%E8%A2%AB%E6%9F%A5%23&Refer=top) 419416
@@ -45,6 +46,7 @@
 1. [向鹏](https://s.weibo.com/weibo?q=%E5%90%91%E9%B9%8F&Refer=top) 287617
 1. [公司每月偷给男子发4千工资](https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E6%AF%8F%E6%9C%88%E5%81%B7%E7%BB%99%E7%94%B7%E5%AD%90%E5%8F%914%E5%8D%83%E5%B7%A5%E8%B5%84%23&Refer=top) 279808
 1. [为什么高中的友情最难忘](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%AB%98%E4%B8%AD%E7%9A%84%E5%8F%8B%E6%83%85%E6%9C%80%E9%9A%BE%E5%BF%98%23&Refer=top) 256800
+1. [淘宝红包](https://s.weibo.com/weibo?q=%E6%B7%98%E5%AE%9D%E7%BA%A2%E5%8C%85&Refer=top) 246006
 1. [韩国女演员被年下老公刺伤送医](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%A5%B3%E6%BC%94%E5%91%98%E8%A2%AB%E5%B9%B4%E4%B8%8B%E8%80%81%E5%85%AC%E5%88%BA%E4%BC%A4%E9%80%81%E5%8C%BB%23&Refer=top) 222034
 1. [拜登将经济困难甩锅普京和特朗普](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E5%B0%86%E7%BB%8F%E6%B5%8E%E5%9B%B0%E9%9A%BE%E7%94%A9%E9%94%85%E6%99%AE%E4%BA%AC%E5%92%8C%E7%89%B9%E6%9C%97%E6%99%AE%23&Refer=top) 199688
 1. [警方回应唐山徐敏归案](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%94%90%E5%B1%B1%E5%BE%90%E6%95%8F%E5%BD%92%E6%A1%88%23&Refer=top) 192227
@@ -68,7 +70,6 @@
 1. [杭州西湖游船降价了](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E8%A5%BF%E6%B9%96%E6%B8%B8%E8%88%B9%E9%99%8D%E4%BB%B7%E4%BA%86%23&Refer=top) 89835
 1. [男孩发育迟缓姥姥同桌陪读6年](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E5%8F%91%E8%82%B2%E8%BF%9F%E7%BC%93%E5%A7%A5%E5%A7%A5%E5%90%8C%E6%A1%8C%E9%99%AA%E8%AF%BB6%E5%B9%B4%23&Refer=top) 89057
 1. [4AM夏季赛线上见面会](https://s.weibo.com/weibo?q=%234AM%E5%A4%8F%E5%AD%A3%E8%B5%9B%E7%BA%BF%E4%B8%8A%E8%A7%81%E9%9D%A2%E4%BC%9A%23&Refer=top) 86325
-1. [淘宝红包](https://s.weibo.com/weibo?q=%E6%B7%98%E5%AE%9D%E7%BA%A2%E5%8C%85&Refer=top) 64990
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
