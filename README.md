@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-06-16 03:17:33
+最后更新时间 2022-06-16 04:22:07
 
 1. [iPhone14](https://s.weibo.com/weibo?q=iPhone14&Refer=top) 2129113
 1. [求救电话只有喘息声调度员定位救人](https://s.weibo.com/weibo?q=%23%E6%B1%82%E6%95%91%E7%94%B5%E8%AF%9D%E5%8F%AA%E6%9C%89%E5%96%98%E6%81%AF%E5%A3%B0%E8%B0%83%E5%BA%A6%E5%91%98%E5%AE%9A%E4%BD%8D%E6%95%91%E4%BA%BA%23&Refer=top) 1881722
@@ -62,6 +62,7 @@
 1. [回廊亭 东野圭吾](https://s.weibo.com/weibo?q=%E5%9B%9E%E5%BB%8A%E4%BA%AD%20%E4%B8%9C%E9%87%8E%E5%9C%AD%E5%90%BE&Refer=top) 143873
 1. [凑单](https://s.weibo.com/weibo?q=%E5%87%91%E5%8D%95&Refer=top) 127336
 1. [别让陈宥维演傻子实在太像了](https://s.weibo.com/weibo?q=%23%E5%88%AB%E8%AE%A9%E9%99%88%E5%AE%A5%E7%BB%B4%E6%BC%94%E5%82%BB%E5%AD%90%E5%AE%9E%E5%9C%A8%E5%A4%AA%E5%83%8F%E4%BA%86%23&Refer=top) 126494
+1. [福建将迎来凶猛的盛夏高温](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E5%B0%86%E8%BF%8E%E6%9D%A5%E5%87%B6%E7%8C%9B%E7%9A%84%E7%9B%9B%E5%A4%8F%E9%AB%98%E6%B8%A9%23&Refer=top) 114886
 1. [回廊亭旁白](https://s.weibo.com/weibo?q=%23%E5%9B%9E%E5%BB%8A%E4%BA%AD%E6%97%81%E7%99%BD%23&Refer=top) 112816
 1. [阿坝恶势力头目罗登被执行死刑](https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%9D%9D%E6%81%B6%E5%8A%BF%E5%8A%9B%E5%A4%B4%E7%9B%AE%E7%BD%97%E7%99%BB%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23&Refer=top) 111259
 1. [一组动作改善骨盆前倾](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%BB%84%E5%8A%A8%E4%BD%9C%E6%94%B9%E5%96%84%E9%AA%A8%E7%9B%86%E5%89%8D%E5%80%BE%23&Refer=top) 100665
@@ -70,8 +71,10 @@
 1. [杭州西湖游船降价了](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E8%A5%BF%E6%B9%96%E6%B8%B8%E8%88%B9%E9%99%8D%E4%BB%B7%E4%BA%86%23&Refer=top) 89835
 1. [男孩发育迟缓姥姥同桌陪读6年](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E5%8F%91%E8%82%B2%E8%BF%9F%E7%BC%93%E5%A7%A5%E5%A7%A5%E5%90%8C%E6%A1%8C%E9%99%AA%E8%AF%BB6%E5%B9%B4%23&Refer=top) 89057
 1. [4AM夏季赛线上见面会](https://s.weibo.com/weibo?q=%234AM%E5%A4%8F%E5%AD%A3%E8%B5%9B%E7%BA%BF%E4%B8%8A%E8%A7%81%E9%9D%A2%E4%BC%9A%23&Refer=top) 86325
+1. [广东持续强降水22日有望结束](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%8C%81%E7%BB%AD%E5%BC%BA%E9%99%8D%E6%B0%B422%E6%97%A5%E6%9C%89%E6%9C%9B%E7%BB%93%E6%9D%9F%23&Refer=top) 35394
 1. [这里有个坏阿姨想要泡我](https://s.weibo.com/weibo?q=%23%E8%BF%99%E9%87%8C%E6%9C%89%E4%B8%AA%E5%9D%8F%E9%98%BF%E5%A7%A8%E6%83%B3%E8%A6%81%E6%B3%A1%E6%88%91%23&Refer=top) 12016
-1. [广东持续强降水22日有望结束](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%8C%81%E7%BB%AD%E5%BC%BA%E9%99%8D%E6%B0%B422%E6%97%A5%E6%9C%89%E6%9C%9B%E7%BB%93%E6%9D%9F%23&Refer=top) 11011
+1. [美军机在黄海东海侦察](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E6%9C%BA%E5%9C%A8%E9%BB%84%E6%B5%B7%E4%B8%9C%E6%B5%B7%E4%BE%A6%E5%AF%9F%23&Refer=top) 11139
+1. [新东方主播为何能爆火出圈](https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B8%9C%E6%96%B9%E4%B8%BB%E6%92%AD%E4%B8%BA%E4%BD%95%E8%83%BD%E7%88%86%E7%81%AB%E5%87%BA%E5%9C%88%23&Refer=top) 6172
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
