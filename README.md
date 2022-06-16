@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-06-17 01:24:50
+最后更新时间 2022-06-17 02:27:01
 
 1. [唐山要求雷霆风暴清仓见底](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%B1%B1%E8%A6%81%E6%B1%82%E9%9B%B7%E9%9C%86%E9%A3%8E%E6%9A%B4%E6%B8%85%E4%BB%93%E8%A7%81%E5%BA%95%23&Refer=top) 3233038
 1. [七星连珠罕见上演](https://s.weibo.com/weibo?q=%23%E4%B8%83%E6%98%9F%E8%BF%9E%E7%8F%A0%E7%BD%95%E8%A7%81%E4%B8%8A%E6%BC%94%23&Refer=top) 1751781
@@ -41,6 +41,7 @@
 1. [四川农大回应男生进女生泳池](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%86%9C%E5%A4%A7%E5%9B%9E%E5%BA%94%E7%94%B7%E7%94%9F%E8%BF%9B%E5%A5%B3%E7%94%9F%E6%B3%B3%E6%B1%A0%23&Refer=top) 467326
 1. [003](https://s.weibo.com/weibo?q=003&Refer=top) 455523
 1. [赵灵儿 红色蒲公英](https://s.weibo.com/weibo?q=%E8%B5%B5%E7%81%B5%E5%84%BF%20%E7%BA%A2%E8%89%B2%E8%92%B2%E5%85%AC%E8%8B%B1&Refer=top) 450193
+1. [贾乃亮 今后也应尽量远离投资](https://s.weibo.com/weibo?q=%E8%B4%BE%E4%B9%83%E4%BA%AE%20%E4%BB%8A%E5%90%8E%E4%B9%9F%E5%BA%94%E5%B0%BD%E9%87%8F%E8%BF%9C%E7%A6%BB%E6%8A%95%E8%B5%84&Refer=top) 425844
 1. [顾千帆池衙内CP名 Gucci](https://s.weibo.com/weibo?q=%E9%A1%BE%E5%8D%83%E5%B8%86%E6%B1%A0%E8%A1%99%E5%86%85CP%E5%90%8D%20Gucci&Refer=top) 392752
 1. [北京毕业生平均月薪过万](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%AF%95%E4%B8%9A%E7%94%9F%E5%B9%B3%E5%9D%87%E6%9C%88%E8%96%AA%E8%BF%87%E4%B8%87%23&Refer=top) 389632
 1. [拍了12年中老年服装后终于30岁了](https://s.weibo.com/weibo?q=%23%E6%8B%8D%E4%BA%8612%E5%B9%B4%E4%B8%AD%E8%80%81%E5%B9%B4%E6%9C%8D%E8%A3%85%E5%90%8E%E7%BB%88%E4%BA%8E30%E5%B2%81%E4%BA%86%23&Refer=top) 381344
@@ -51,7 +52,6 @@
 1. [西安今天最高温42.9度](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E4%BB%8A%E5%A4%A9%E6%9C%80%E9%AB%98%E6%B8%A942.9%E5%BA%A6%23&Refer=top) 318000
 1. [河南纪委监委接到大量赋红码问题举报](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E7%BA%AA%E5%A7%94%E7%9B%91%E5%A7%94%E6%8E%A5%E5%88%B0%E5%A4%A7%E9%87%8F%E8%B5%8B%E7%BA%A2%E7%A0%81%E9%97%AE%E9%A2%98%E4%B8%BE%E6%8A%A5%23&Refer=top) 301971
 1. [白敬亭 白克伞](https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%20%E7%99%BD%E5%85%8B%E4%BC%9E&Refer=top) 296996
-1. [贾乃亮 今后也应尽量远离投资](https://s.weibo.com/weibo?q=%E8%B4%BE%E4%B9%83%E4%BA%AE%20%E4%BB%8A%E5%90%8E%E4%B9%9F%E5%BA%94%E5%B0%BD%E9%87%8F%E8%BF%9C%E7%A6%BB%E6%8A%95%E8%B5%84&Refer=top) 285104
 1. [92年小伙卖驱蚊门帘年入3000万](https://s.weibo.com/weibo?q=%2392%E5%B9%B4%E5%B0%8F%E4%BC%99%E5%8D%96%E9%A9%B1%E8%9A%8A%E9%97%A8%E5%B8%98%E5%B9%B4%E5%85%A53000%E4%B8%87%23&Refer=top) 283134
 1. [乌克兰几乎全境陆续响起防空警报](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%85%8B%E5%85%B0%E5%87%A0%E4%B9%8E%E5%85%A8%E5%A2%83%E9%99%86%E7%BB%AD%E5%93%8D%E8%B5%B7%E9%98%B2%E7%A9%BA%E8%AD%A6%E6%8A%A5%23&Refer=top) 239127
 1. [七星连珠 许愿](https://s.weibo.com/weibo?q=%E4%B8%83%E6%98%9F%E8%BF%9E%E7%8F%A0%20%E8%AE%B8%E6%84%BF&Refer=top) 233761
@@ -71,6 +71,7 @@
 1. [高校通报教师发布针对女性不当言论](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E9%80%9A%E6%8A%A5%E6%95%99%E5%B8%88%E5%8F%91%E5%B8%83%E9%92%88%E5%AF%B9%E5%A5%B3%E6%80%A7%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA%23&Refer=top) 149386
 1. [黄圣依杨子再现天仙配](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%9C%A3%E4%BE%9D%E6%9D%A8%E5%AD%90%E5%86%8D%E7%8E%B0%E5%A4%A9%E4%BB%99%E9%85%8D%23&Refer=top) 145714
 1. [海关在入境飞机截获47只德国小蠊](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%85%B3%E5%9C%A8%E5%85%A5%E5%A2%83%E9%A3%9E%E6%9C%BA%E6%88%AA%E8%8E%B747%E5%8F%AA%E5%BE%B7%E5%9B%BD%E5%B0%8F%E8%A0%8A%23&Refer=top) 141313
+1. [陈伟霆 我没脑](https://s.weibo.com/weibo?q=%E9%99%88%E4%BC%9F%E9%9C%86%20%E6%88%91%E6%B2%A1%E8%84%91&Refer=top) 92840
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
