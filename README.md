@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-06-18 03:16:59
+最后更新时间 2022-06-18 04:20:42
 
 1. [医院否认唐山被打女子去世传言](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%90%A6%E8%AE%A4%E5%94%90%E5%B1%B1%E8%A2%AB%E6%89%93%E5%A5%B3%E5%AD%90%E5%8E%BB%E4%B8%96%E4%BC%A0%E8%A8%80%23&Refer=top) 2210400
 1. [杨幂镜头少](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E9%95%9C%E5%A4%B4%E5%B0%91&Refer=top) 1688945
