@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-06-21 03:15:27
+最后更新时间 2022-06-21 04:23:38
 
 1. [唐山打人事件涉事烧烤店已搬空](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%B1%B1%E6%89%93%E4%BA%BA%E4%BA%8B%E4%BB%B6%E6%B6%89%E4%BA%8B%E7%83%A7%E7%83%A4%E5%BA%97%E5%B7%B2%E6%90%AC%E7%A9%BA%23&Refer=top) 4144274
 1. [两所985大学共享同一位校长](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E6%89%80985%E5%A4%A7%E5%AD%A6%E5%85%B1%E4%BA%AB%E5%90%8C%E4%B8%80%E4%BD%8D%E6%A0%A1%E9%95%BF%23&Refer=top) 1753437
@@ -59,6 +59,7 @@
 1. [卡塔尔世界杯首支单曲上线](https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E6%94%AF%E5%8D%95%E6%9B%B2%E4%B8%8A%E7%BA%BF%23&Refer=top) 118419
 1. [河南新财富集团已人去楼空](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%96%B0%E8%B4%A2%E5%AF%8C%E9%9B%86%E5%9B%A2%E5%B7%B2%E4%BA%BA%E5%8E%BB%E6%A5%BC%E7%A9%BA%23&Refer=top) 114481
 1. [劝回轻生女孩的119接警员找到了](https://s.weibo.com/weibo?q=%23%E5%8A%9D%E5%9B%9E%E8%BD%BB%E7%94%9F%E5%A5%B3%E5%AD%A9%E7%9A%84119%E6%8E%A5%E8%AD%A6%E5%91%98%E6%89%BE%E5%88%B0%E4%BA%86%23&Refer=top) 110422
+1. [吴彤揭秘华晨宇鸣人造型幕后](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%BD%A4%E6%8F%AD%E7%A7%98%E5%8D%8E%E6%99%A8%E5%AE%87%E9%B8%A3%E4%BA%BA%E9%80%A0%E5%9E%8B%E5%B9%95%E5%90%8E%23&Refer=top) 108283
 1. [中国男排因身体原因退赛](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E6%8E%92%E5%9B%A0%E8%BA%AB%E4%BD%93%E5%8E%9F%E5%9B%A0%E9%80%80%E8%B5%9B%23&Refer=top) 105844
 1. [梦华录导演问我们成古偶了](https://s.weibo.com/weibo?q=%23%E6%A2%A6%E5%8D%8E%E5%BD%95%E5%AF%BC%E6%BC%94%E9%97%AE%E6%88%91%E4%BB%AC%E6%88%90%E5%8F%A4%E5%81%B6%E4%BA%86%23&Refer=top) 105754
 1. [李雪琴王传君结合体](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9B%AA%E7%90%B4%E7%8E%8B%E4%BC%A0%E5%90%9B%E7%BB%93%E5%90%88%E4%BD%93%23&Refer=top) 105631
@@ -70,8 +71,10 @@
 1. [中国女排前主帅李耀先去世](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E5%89%8D%E4%B8%BB%E5%B8%85%E6%9D%8E%E8%80%80%E5%85%88%E5%8E%BB%E4%B8%96%23&Refer=top) 68348
 1. [UP战胜RA](https://s.weibo.com/weibo?q=UP%E6%88%98%E8%83%9CRA&Refer=top) 63452
 1. [男子疑夜市偷拍女生被众人按住送警](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%96%91%E5%A4%9C%E5%B8%82%E5%81%B7%E6%8B%8D%E5%A5%B3%E7%94%9F%E8%A2%AB%E4%BC%97%E4%BA%BA%E6%8C%89%E4%BD%8F%E9%80%81%E8%AD%A6%23&Refer=top) 59685
-1. [吴彤揭秘华晨宇鸣人造型幕后](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%BD%A4%E6%8F%AD%E7%A7%98%E5%8D%8E%E6%99%A8%E5%AE%87%E9%B8%A3%E4%BA%BA%E9%80%A0%E5%9E%8B%E5%B9%95%E5%90%8E%23&Refer=top) 29989
+1. [河南用电负荷创历史新高](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E7%94%A8%E7%94%B5%E8%B4%9F%E8%8D%B7%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98%23&Refer=top) 19949
 1. [郑秀妍第一次尝试点火表演](https://s.weibo.com/weibo?q=%23%E9%83%91%E7%A7%80%E5%A6%8D%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%B0%9D%E8%AF%95%E7%82%B9%E7%81%AB%E8%A1%A8%E6%BC%94%23&Refer=top) 16943
+1. [台军方发生重大意外](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%86%9B%E6%96%B9%E5%8F%91%E7%94%9F%E9%87%8D%E5%A4%A7%E6%84%8F%E5%A4%96%23&Refer=top) 15666
+1. [河南一学霸妈妈用钱奖罚孩子学习](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E4%B8%80%E5%AD%A6%E9%9C%B8%E5%A6%88%E5%A6%88%E7%94%A8%E9%92%B1%E5%A5%96%E7%BD%9A%E5%AD%A9%E5%AD%90%E5%AD%A6%E4%B9%A0%23&Refer=top) 9077
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
