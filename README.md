@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-06-24 03:16:31
+最后更新时间 2022-06-24 04:22:54
 
 1. [男生高考681分满脸淡定父亲激动抹泪](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83681%E5%88%86%E6%BB%A1%E8%84%B8%E6%B7%A1%E5%AE%9A%E7%88%B6%E4%BA%B2%E6%BF%80%E5%8A%A8%E6%8A%B9%E6%B3%AA%23&Refer=top) 2351710
 1. [2022年清华大学在河南计划招生101人](https://s.weibo.com/weibo?q=%232022%E5%B9%B4%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%9C%A8%E6%B2%B3%E5%8D%97%E8%AE%A1%E5%88%92%E6%8B%9B%E7%94%9F101%E4%BA%BA%23&Refer=top) 1632266
@@ -77,6 +77,9 @@
 1. [永安楼开张](https://s.weibo.com/weibo?q=%23%E6%B0%B8%E5%AE%89%E6%A5%BC%E5%BC%80%E5%BC%A0%23&Refer=top) 76642
 1. [马尔代夫建造海上漂浮城市](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB%E5%BB%BA%E9%80%A0%E6%B5%B7%E4%B8%8A%E6%BC%82%E6%B5%AE%E5%9F%8E%E5%B8%82%23&Refer=top) 48827
 1. [十亿吨跑男的料](https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%BA%BF%E5%90%A8%E8%B7%91%E7%94%B7%E7%9A%84%E6%96%99%23&Refer=top) 47652
+1. [福建高考成绩将于6月24日下午公布](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E5%B0%86%E4%BA%8E6%E6%9C%8824%E6%97%A5%E4%B8%8B%E5%8D%88%E5%85%AC%E5%B8%83%23&Refer=top) 47607
+1. [非主流时期的三大女巨头](https://s.weibo.com/weibo?q=%23%E9%9D%9E%E4%B8%BB%E6%B5%81%E6%97%B6%E6%9C%9F%E7%9A%84%E4%B8%89%E5%A4%A7%E5%A5%B3%E5%B7%A8%E5%A4%B4%23&Refer=top) 32410
+1. [求萧钦言不要再为顾千帆着想了](https://s.weibo.com/weibo?q=%23%E6%B1%82%E8%90%A7%E9%92%A6%E8%A8%80%E4%B8%8D%E8%A6%81%E5%86%8D%E4%B8%BA%E9%A1%BE%E5%8D%83%E5%B8%86%E7%9D%80%E6%83%B3%E4%BA%86%23&Refer=top) 29743
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
