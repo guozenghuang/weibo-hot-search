@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-06-24 02:27:30
+最后更新时间 2022-06-24 03:16:31
 
 1. [男生高考681分满脸淡定父亲激动抹泪](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83681%E5%88%86%E6%BB%A1%E8%84%B8%E6%B7%A1%E5%AE%9A%E7%88%B6%E4%BA%B2%E6%BF%80%E5%8A%A8%E6%8A%B9%E6%B3%AA%23&Refer=top) 2351710
 1. [2022年清华大学在河南计划招生101人](https://s.weibo.com/weibo?q=%232022%E5%B9%B4%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%9C%A8%E6%B2%B3%E5%8D%97%E8%AE%A1%E5%88%92%E6%8B%9B%E7%94%9F101%E4%BA%BA%23&Refer=top) 1632266
@@ -75,8 +75,8 @@
 1. [2022公务员计划招录11.6万应届生](https://s.weibo.com/weibo?q=%232022%E5%85%AC%E5%8A%A1%E5%91%98%E8%AE%A1%E5%88%92%E6%8B%9B%E5%BD%9511.6%E4%B8%87%E5%BA%94%E5%B1%8A%E7%94%9F%23&Refer=top) 94357
 1. [王柳懿王芊懿世锦赛三冠王](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9F%B3%E6%87%BF%E7%8E%8B%E8%8A%8A%E6%87%BF%E4%B8%96%E9%94%A6%E8%B5%9B%E4%B8%89%E5%86%A0%E7%8E%8B%23&Refer=top) 78693
 1. [永安楼开张](https://s.weibo.com/weibo?q=%23%E6%B0%B8%E5%AE%89%E6%A5%BC%E5%BC%80%E5%BC%A0%23&Refer=top) 76642
+1. [马尔代夫建造海上漂浮城市](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB%E5%BB%BA%E9%80%A0%E6%B5%B7%E4%B8%8A%E6%BC%82%E6%B5%AE%E5%9F%8E%E5%B8%82%23&Refer=top) 48827
 1. [十亿吨跑男的料](https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%BA%BF%E5%90%A8%E8%B7%91%E7%94%B7%E7%9A%84%E6%96%99%23&Refer=top) 47652
-1. [马尔代夫建造海上漂浮城市](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB%E5%BB%BA%E9%80%A0%E6%B5%B7%E4%B8%8A%E6%BC%82%E6%B5%AE%E5%9F%8E%E5%B8%82%23&Refer=top) 27527
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
