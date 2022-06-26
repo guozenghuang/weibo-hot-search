@@ -147,6 +147,10 @@
     "href": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%8B%B1%E6%97%A5%E5%8A%A0%E5%B0%86%E7%A6%81%E8%BF%9B%E5%8F%A3%E4%BF%84%E9%BB%84%E9%87%91%23&Refer=top",
     "hot": 137740
   },
+  "年轻人为什么喜欢音乐节": {
+    "href": "https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E5%96%9C%E6%AC%A2%E9%9F%B3%E4%B9%90%E8%8A%82%23&Refer=top",
+    "hot": 136817
+  },
   "KPL超级兵偷家日": {
     "href": "https://s.weibo.com/weibo?q=%23KPL%E8%B6%85%E7%BA%A7%E5%85%B5%E5%81%B7%E5%AE%B6%E6%97%A5%23&Refer=top",
     "hot": 123789
@@ -203,12 +207,12 @@
     "href": "https://s.weibo.com/weibo?q=%23%E7%AE%97%E6%98%AF%E6%8A%8A%E5%84%BF%E7%AB%A5%E4%B9%90%E5%99%A8%E7%8E%A9%E6%98%8E%E7%99%BD%E4%BA%86%23&Refer=top",
     "hot": 72568
   },
-  "年轻人为什么喜欢音乐节": {
-    "href": "https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E5%96%9C%E6%AC%A2%E9%9F%B3%E4%B9%90%E8%8A%82%23&Refer=top",
-    "hot": 71848
-  },
   "上海新增社会面2例本土无症状": {
     "href": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%96%B0%E5%A2%9E%E7%A4%BE%E4%BC%9A%E9%9D%A22%E4%BE%8B%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B6%23&Refer=top",
     "hot": 41110
+  },
+  "人生大事": {
+    "href": "https://s.weibo.com/weibo?q=%E4%BA%BA%E7%94%9F%E5%A4%A7%E4%BA%8B&Refer=top",
+    "hot": 24644
   }
 }
