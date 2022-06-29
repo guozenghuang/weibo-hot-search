@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-06-30 01:45:24
+最后更新时间 2022-06-30 02:30:46
 
 1. [高价雪糕为什么卖不动了](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%BB%B7%E9%9B%AA%E7%B3%95%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86%23&Refer=top) 1002268
 1. [男子坐地铁被陌生小男孩拔腿毛玩](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9D%90%E5%9C%B0%E9%93%81%E8%A2%AB%E9%99%8C%E7%94%9F%E5%B0%8F%E7%94%B7%E5%AD%A9%E6%8B%94%E8%85%BF%E6%AF%9B%E7%8E%A9%23&Refer=top) 892870
@@ -71,6 +71,7 @@
 1. [水做的扇子有多惊艳](https://s.weibo.com/weibo?q=%23%E6%B0%B4%E5%81%9A%E7%9A%84%E6%89%87%E5%AD%90%E6%9C%89%E5%A4%9A%E6%83%8A%E8%89%B3%23&Refer=top) 61320
 1. [行程卡摘星意味着什么](https://s.weibo.com/weibo?q=%23%E8%A1%8C%E7%A8%8B%E5%8D%A1%E6%91%98%E6%98%9F%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%23&Refer=top) 56140
 1. [孙颖莎老师上线](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%80%81%E5%B8%88%E4%B8%8A%E7%BA%BF%23&Refer=top) 38446
+1. [人生大事票房走势后劲好足](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%94%9F%E5%A4%A7%E4%BA%8B%E7%A5%A8%E6%88%BF%E8%B5%B0%E5%8A%BF%E5%90%8E%E5%8A%B2%E5%A5%BD%E8%B6%B3%23&Refer=top) 22438
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
