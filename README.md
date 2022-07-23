@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-07-24 01:22:04
+最后更新时间 2022-07-24 02:25:31
 
 1. [孩子发烧取化验单护士低头玩手机](https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E5%8F%91%E7%83%A7%E5%8F%96%E5%8C%96%E9%AA%8C%E5%8D%95%E6%8A%A4%E5%A3%AB%E4%BD%8E%E5%A4%B4%E7%8E%A9%E6%89%8B%E6%9C%BA%23&Refer=top) 2855914
 1. [胃就是这样被弄坏的](https://s.weibo.com/weibo?q=%23%E8%83%83%E5%B0%B1%E6%98%AF%E8%BF%99%E6%A0%B7%E8%A2%AB%E5%BC%84%E5%9D%8F%E7%9A%84%23&Refer=top) 1492799
@@ -34,6 +34,7 @@
 1. [唐山互殴案最后一名违法嫌疑人到案](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%B1%B1%E4%BA%92%E6%AE%B4%E6%A1%88%E6%9C%80%E5%90%8E%E4%B8%80%E5%90%8D%E8%BF%9D%E6%B3%95%E5%AB%8C%E7%96%91%E4%BA%BA%E5%88%B0%E6%A1%88%23&Refer=top) 545786
 1. [沉香如屑 棺配](https://s.weibo.com/weibo?q=%E6%B2%89%E9%A6%99%E5%A6%82%E5%B1%91%20%E6%A3%BA%E9%85%8D&Refer=top) 526305
 1. [世卫针对猴痘发布最高级别警报](https://s.weibo.com/weibo?q=%23%E4%B8%96%E5%8D%AB%E9%92%88%E5%AF%B9%E7%8C%B4%E7%97%98%E5%8F%91%E5%B8%83%E6%9C%80%E9%AB%98%E7%BA%A7%E5%88%AB%E8%AD%A6%E6%8A%A5%23&Refer=top) 507611
+1. [音乐节为什么越来越贵](https://s.weibo.com/weibo?q=%23%E9%9F%B3%E4%B9%90%E8%8A%82%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E6%9D%A5%E8%B6%8A%E8%B4%B5%23&Refer=top) 500806
 1. [小狗也有自己的电风扇](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%E4%B9%9F%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E7%94%B5%E9%A3%8E%E6%89%87%23&Refer=top) 482563
 1. [许嵩综艺感](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%B5%A9%E7%BB%BC%E8%89%BA%E6%84%9F%23&Refer=top) 474717
 1. [千万别尝试奶茶新品](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E5%88%AB%E5%B0%9D%E8%AF%95%E5%A5%B6%E8%8C%B6%E6%96%B0%E5%93%81%23&Refer=top) 413569
