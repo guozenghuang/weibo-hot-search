@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-07-24 02:25:31
+最后更新时间 2022-07-24 03:17:38
 
 1. [孩子发烧取化验单护士低头玩手机](https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E5%8F%91%E7%83%A7%E5%8F%96%E5%8C%96%E9%AA%8C%E5%8D%95%E6%8A%A4%E5%A3%AB%E4%BD%8E%E5%A4%B4%E7%8E%A9%E6%89%8B%E6%9C%BA%23&Refer=top) 2855914
 1. [胃就是这样被弄坏的](https://s.weibo.com/weibo?q=%23%E8%83%83%E5%B0%B1%E6%98%AF%E8%BF%99%E6%A0%B7%E8%A2%AB%E5%BC%84%E5%9D%8F%E7%9A%84%23&Refer=top) 1492799
@@ -39,6 +39,7 @@
 1. [许嵩综艺感](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%B5%A9%E7%BB%BC%E8%89%BA%E6%84%9F%23&Refer=top) 474717
 1. [千万别尝试奶茶新品](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E5%88%AB%E5%B0%9D%E8%AF%95%E5%A5%B6%E8%8C%B6%E6%96%B0%E5%93%81%23&Refer=top) 413569
 1. [RNG翻盘](https://s.weibo.com/weibo?q=%23RNG%E7%BF%BB%E7%9B%98%23&Refer=top) 387050
+1. [杨紫说火锅凌晨吃不长胖](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%AF%B4%E7%81%AB%E9%94%85%E5%87%8C%E6%99%A8%E5%90%83%E4%B8%8D%E9%95%BF%E8%83%96%23&Refer=top) 347750
 1. [管泽元](https://s.weibo.com/weibo?q=%E7%AE%A1%E6%B3%BD%E5%85%83&Refer=top) 341746
 1. [RNG战胜EDG](https://s.weibo.com/weibo?q=%23RNG%E6%88%98%E8%83%9CEDG%23&Refer=top) 323014
 1. [许嵩爷青回五连唱](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%B5%A9%E7%88%B7%E9%9D%92%E5%9B%9E%E4%BA%94%E8%BF%9E%E5%94%B1%23&Refer=top) 322810
