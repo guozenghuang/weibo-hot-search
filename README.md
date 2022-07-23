@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-07-24 05:18:39
+最后更新时间 2022-07-24 06:20:23
 
 1. [孩子发烧取化验单护士低头玩手机](https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E5%8F%91%E7%83%A7%E5%8F%96%E5%8C%96%E9%AA%8C%E5%8D%95%E6%8A%A4%E5%A3%AB%E4%BD%8E%E5%A4%B4%E7%8E%A9%E6%89%8B%E6%9C%BA%23&Refer=top) 2855914
 1. [胃就是这样被弄坏的](https://s.weibo.com/weibo?q=%23%E8%83%83%E5%B0%B1%E6%98%AF%E8%BF%99%E6%A0%B7%E8%A2%AB%E5%BC%84%E5%9D%8F%E7%9A%84%23&Refer=top) 1492799
@@ -41,6 +41,7 @@
 1. [RNG翻盘](https://s.weibo.com/weibo?q=%23RNG%E7%BF%BB%E7%9B%98%23&Refer=top) 387050
 1. [杨紫说火锅凌晨吃不长胖](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%AF%B4%E7%81%AB%E9%94%85%E5%87%8C%E6%99%A8%E5%90%83%E4%B8%8D%E9%95%BF%E8%83%96%23&Refer=top) 347750
 1. [管泽元](https://s.weibo.com/weibo?q=%E7%AE%A1%E6%B3%BD%E5%85%83&Refer=top) 341746
+1. [我国奥密克戎变异株疫苗研发正稳步推进](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8E%E5%8F%98%E5%BC%82%E6%A0%AA%E7%96%AB%E8%8B%97%E7%A0%94%E5%8F%91%E6%AD%A3%E7%A8%B3%E6%AD%A5%E6%8E%A8%E8%BF%9B%23&Refer=top) 327981
 1. [RNG战胜EDG](https://s.weibo.com/weibo?q=%23RNG%E6%88%98%E8%83%9CEDG%23&Refer=top) 323014
 1. [许嵩爷青回五连唱](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%B5%A9%E7%88%B7%E9%9D%92%E5%9B%9E%E4%BA%94%E8%BF%9E%E5%94%B1%23&Refer=top) 322810
 1. [张艺兴晒照感谢大家](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%99%92%E7%85%A7%E6%84%9F%E8%B0%A2%E5%A4%A7%E5%AE%B6%23&Refer=top) 322745
@@ -57,6 +58,7 @@
 1. [玉龙雪山到热带雨林实现火车直达](https://s.weibo.com/weibo?q=%23%E7%8E%89%E9%BE%99%E9%9B%AA%E5%B1%B1%E5%88%B0%E7%83%AD%E5%B8%A6%E9%9B%A8%E6%9E%97%E5%AE%9E%E7%8E%B0%E7%81%AB%E8%BD%A6%E7%9B%B4%E8%BE%BE%23&Refer=top) 194620
 1. [网传张开泰出演偷偷藏不住桑延](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%BC%A0%E5%BC%80%E6%B3%B0%E5%87%BA%E6%BC%94%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%E6%A1%91%E5%BB%B6%23&Refer=top) 194352
 1. [梦不落雨林](https://s.weibo.com/weibo?q=%23%E6%A2%A6%E4%B8%8D%E8%90%BD%E9%9B%A8%E6%9E%97%23&Refer=top) 191838
+1. [近视眼手术做完能一劳永逸吗](https://s.weibo.com/weibo?q=%23%E8%BF%91%E8%A7%86%E7%9C%BC%E6%89%8B%E6%9C%AF%E5%81%9A%E5%AE%8C%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E5%90%97%23&Refer=top) 190292
 1. [有一种紫叫中国紫](https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%B8%80%E7%A7%8D%E7%B4%AB%E5%8F%AB%E4%B8%AD%E5%9B%BD%E7%B4%AB%23&Refer=top) 189494
 1. [GAI再次四句封神](https://s.weibo.com/weibo?q=%23GAI%E5%86%8D%E6%AC%A1%E5%9B%9B%E5%8F%A5%E5%B0%81%E7%A5%9E%23&Refer=top) 188079
 1. [京藏高速一路怒男子被拘](https://s.weibo.com/weibo?q=%23%E4%BA%AC%E8%97%8F%E9%AB%98%E9%80%9F%E4%B8%80%E8%B7%AF%E6%80%92%E7%94%B7%E5%AD%90%E8%A2%AB%E6%8B%98%23&Refer=top) 186334
@@ -73,14 +75,14 @@
 1. [日本单日新增确诊破20万](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8D%95%E6%97%A5%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A%E7%A0%B420%E4%B8%87%23&Refer=top) 125915
 1. [张本智和WTT冠军赛男单夺冠](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8CWTT%E5%86%A0%E5%86%9B%E8%B5%9B%E7%94%B7%E5%8D%95%E5%A4%BA%E5%86%A0%23&Refer=top) 116228
 1. [丈夫打赏主播10万妻子起诉返还被驳回](https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E6%89%93%E8%B5%8F%E4%B8%BB%E6%92%AD10%E4%B8%87%E5%A6%BB%E5%AD%90%E8%B5%B7%E8%AF%89%E8%BF%94%E8%BF%98%E8%A2%AB%E9%A9%B3%E5%9B%9E%23&Refer=top) 106562
+1. [小伙有娃前后变化大被认成爷爷](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E6%9C%89%E5%A8%83%E5%89%8D%E5%90%8E%E5%8F%98%E5%8C%96%E5%A4%A7%E8%A2%AB%E8%AE%A4%E6%88%90%E7%88%B7%E7%88%B7%23&Refer=top) 92626
 1. [中国女足1比1扳平韩国女足](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B31%E6%AF%941%E6%89%B3%E5%B9%B3%E9%9F%A9%E5%9B%BD%E5%A5%B3%E8%B6%B3%23&Refer=top) 91295
+1. [父亲排爆受重伤女儿长大选择从警](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E6%8E%92%E7%88%86%E5%8F%97%E9%87%8D%E4%BC%A4%E5%A5%B3%E5%84%BF%E9%95%BF%E5%A4%A7%E9%80%89%E6%8B%A9%E4%BB%8E%E8%AD%A6%23&Refer=top) 90790
 1. [郭昊文与杜兰特一起打球](https://s.weibo.com/weibo?q=%23%E9%83%AD%E6%98%8A%E6%96%87%E4%B8%8E%E6%9D%9C%E5%85%B0%E7%89%B9%E4%B8%80%E8%B5%B7%E6%89%93%E7%90%83%23&Refer=top) 83083
-1. [近视眼手术做完能一劳永逸吗](https://s.weibo.com/weibo?q=%23%E8%BF%91%E8%A7%86%E7%9C%BC%E6%89%8B%E6%9C%AF%E5%81%9A%E5%AE%8C%E8%83%BD%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E5%90%97%23&Refer=top) 48297
-1. [小伙有娃前后变化大被认成爷爷](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E6%9C%89%E5%A8%83%E5%89%8D%E5%90%8E%E5%8F%98%E5%8C%96%E5%A4%A7%E8%A2%AB%E8%AE%A4%E6%88%90%E7%88%B7%E7%88%B7%23&Refer=top) 48236
-1. [我国奥密克戎变异株疫苗研发正稳步推进](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8E%E5%8F%98%E5%BC%82%E6%A0%AA%E7%96%AB%E8%8B%97%E7%A0%94%E5%8F%91%E6%AD%A3%E7%A8%B3%E6%AD%A5%E6%8E%A8%E8%BF%9B%23&Refer=top) 25241
-1. [张嘉益闫妮5搭演夫妻](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%98%89%E7%9B%8A%E9%97%AB%E5%A6%AE5%E6%90%AD%E6%BC%94%E5%A4%AB%E5%A6%BB%23&Refer=top) 19345
+1. [确保每一支新冠疫苗来源可追去向可查](https://s.weibo.com/weibo?q=%23%E7%A1%AE%E4%BF%9D%E6%AF%8F%E4%B8%80%E6%94%AF%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%9D%A5%E6%BA%90%E5%8F%AF%E8%BF%BD%E5%8E%BB%E5%90%91%E5%8F%AF%E6%9F%A5%23&Refer=top) 62181
+1. [张嘉益闫妮5搭演夫妻](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%98%89%E7%9B%8A%E9%97%AB%E5%A6%AE5%E6%90%AD%E6%BC%94%E5%A4%AB%E5%A6%BB%23&Refer=top) 29345
+1. [勇士签下韦瑟斯庞](https://s.weibo.com/weibo?q=%23%E5%8B%87%E5%A3%AB%E7%AD%BE%E4%B8%8B%E9%9F%A6%E7%91%9F%E6%96%AF%E5%BA%9E%23&Refer=top) 23220
 1. [中国女足26日对阵日本女足](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B326%E6%97%A5%E5%AF%B9%E9%98%B5%E6%97%A5%E6%9C%AC%E5%A5%B3%E8%B6%B3%23&Refer=top) 18465
-1. [确保每一支新冠疫苗来源可追去向可查](https://s.weibo.com/weibo?q=%23%E7%A1%AE%E4%BF%9D%E6%AF%8F%E4%B8%80%E6%94%AF%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%9D%A5%E6%BA%90%E5%8F%AF%E8%BF%BD%E5%8E%BB%E5%90%91%E5%8F%AF%E6%9F%A5%23&Refer=top) 12172
 1. [八旬进疆女兵重回地窝子](https://s.weibo.com/weibo?q=%23%E5%85%AB%E6%97%AC%E8%BF%9B%E7%96%86%E5%A5%B3%E5%85%B5%E9%87%8D%E5%9B%9E%E5%9C%B0%E7%AA%9D%E5%AD%90%23&Refer=top) 9080
 <!-- Rank End -->
 
