@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-07-30 03:17:26
+最后更新时间 2022-07-30 04:23:01
 
 1. [MIRROR演唱会伤者或颈部以下永久瘫痪](https://s.weibo.com/weibo?q=%23MIRROR%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BC%A4%E8%80%85%E6%88%96%E9%A2%88%E9%83%A8%E4%BB%A5%E4%B8%8B%E6%B0%B8%E4%B9%85%E7%98%AB%E7%97%AA%23&Refer=top) 1703090
 1. [张译 百花奖](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%AF%91%20%E7%99%BE%E8%8A%B1%E5%A5%96&Refer=top) 1566143
@@ -72,8 +72,10 @@
 1. [手机上最没用的功能是什么](https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E4%B8%8A%E6%9C%80%E6%B2%A1%E7%94%A8%E7%9A%84%E5%8A%9F%E8%83%BD%E6%98%AF%E4%BB%80%E4%B9%88%23&Refer=top) 129215
 1. [被晒月薪超8万中金员工停职调查](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%99%92%E6%9C%88%E8%96%AA%E8%B6%858%E4%B8%87%E4%B8%AD%E9%87%91%E5%91%98%E5%B7%A5%E5%81%9C%E8%81%8C%E8%B0%83%E6%9F%A5%23&Refer=top) 126437
 1. [香港演唱会事故初步调查原因](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%8B%E6%95%85%E5%88%9D%E6%AD%A5%E8%B0%83%E6%9F%A5%E5%8E%9F%E5%9B%A0%23&Refer=top) 123908
+1. [六旬大叔高温下跪地施救溺水男孩](https://s.weibo.com/weibo?q=%23%E5%85%AD%E6%97%AC%E5%A4%A7%E5%8F%94%E9%AB%98%E6%B8%A9%E4%B8%8B%E8%B7%AA%E5%9C%B0%E6%96%BD%E6%95%91%E6%BA%BA%E6%B0%B4%E7%94%B7%E5%AD%A9%23&Refer=top) 40055
 1. [高志丹任国家体育总局局长](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%BF%97%E4%B8%B9%E4%BB%BB%E5%9B%BD%E5%AE%B6%E4%BD%93%E8%82%B2%E6%80%BB%E5%B1%80%E5%B1%80%E9%95%BF%23&Refer=top) 39649
 1. [郭艾伦](https://s.weibo.com/weibo?q=%E9%83%AD%E8%89%BE%E4%BC%A6&Refer=top) 38143
+1. [于文文永远都会在](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%96%87%E6%96%87%E6%B0%B8%E8%BF%9C%E9%83%BD%E4%BC%9A%E5%9C%A8%23&Refer=top) 13355
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
