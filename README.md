@@ -17,15 +17,15 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-09-05 00:29:46
+最后更新时间 2022-09-05 01:22:10
 
 1. [90%学生被取消学籍系因游戏](https://s.weibo.com/weibo?q=%2390%25%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%8F%96%E6%B6%88%E5%AD%A6%E7%B1%8D%E7%B3%BB%E5%9B%A0%E6%B8%B8%E6%88%8F%23&Refer=top) 1739706
 1. [呼吸哥哭了](https://s.weibo.com/weibo?q=%23%E5%91%BC%E5%90%B8%E5%93%A5%E5%93%AD%E4%BA%86%23&Refer=top) 946214
 1. [2022服贸会观展指北](https://s.weibo.com/weibo?q=%232022%E6%9C%8D%E8%B4%B8%E4%BC%9A%E8%A7%82%E5%B1%95%E6%8C%87%E5%8C%97%23&Refer=top) 882344
 1. [Light哭了](https://s.weibo.com/weibo?q=%23Light%E5%93%AD%E4%BA%86%23&Refer=top) 867823
 1. [4个月宝宝被爸爸鼾声吵到空气挥拳](https://s.weibo.com/weibo?q=%234%E4%B8%AA%E6%9C%88%E5%AE%9D%E5%AE%9D%E8%A2%AB%E7%88%B8%E7%88%B8%E9%BC%BE%E5%A3%B0%E5%90%B5%E5%88%B0%E7%A9%BA%E6%B0%94%E6%8C%A5%E6%8B%B3%23&Refer=top) 855528
+1. [全开麦真的是对歌手的夸奖吗](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%BC%80%E9%BA%A6%E7%9C%9F%E7%9A%84%E6%98%AF%E5%AF%B9%E6%AD%8C%E6%89%8B%E7%9A%84%E5%A4%B8%E5%A5%96%E5%90%97%23&Refer=top) 835997
 1. [女子在永辉超市买2斤猪肉花103元](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%B0%B8%E8%BE%89%E8%B6%85%E5%B8%82%E4%B9%B02%E6%96%A4%E7%8C%AA%E8%82%89%E8%8A%B1103%E5%85%83%23&Refer=top) 657785
-1. [全开麦真的是对歌手的夸奖吗](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%BC%80%E9%BA%A6%E7%9C%9F%E7%9A%84%E6%98%AF%E5%AF%B9%E6%AD%8C%E6%89%8B%E7%9A%84%E5%A4%B8%E5%A5%96%E5%90%97%23&Refer=top) 591505
 1. [偷偷藏不住官微呼吁抵制代拍](https://s.weibo.com/weibo?q=%23%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%E5%AE%98%E5%BE%AE%E5%91%BC%E5%90%81%E6%8A%B5%E5%88%B6%E4%BB%A3%E6%8B%8D%23&Refer=top) 532390
 1. [Doinb无缘世界赛](https://s.weibo.com/weibo?q=%23Doinb%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E8%B5%9B%23&Refer=top) 528595
 1. [浙江三地已宣布停课一天](https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E4%B8%89%E5%9C%B0%E5%B7%B2%E5%AE%A3%E5%B8%83%E5%81%9C%E8%AF%BE%E4%B8%80%E5%A4%A9%23&Refer=top) 491821
@@ -58,6 +58,7 @@
 1. [我国已进入台风核心影响时段](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%B7%B2%E8%BF%9B%E5%85%A5%E5%8F%B0%E9%A3%8E%E6%A0%B8%E5%BF%83%E5%BD%B1%E5%93%8D%E6%97%B6%E6%AE%B5%23&Refer=top) 175057
 1. [河南变身全球最大人造钻石生产地](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%8F%98%E8%BA%AB%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E4%BA%BA%E9%80%A0%E9%92%BB%E7%9F%B3%E7%94%9F%E4%BA%A7%E5%9C%B0%23&Refer=top) 168471
 1. [Uzi解说](https://s.weibo.com/weibo?q=%23Uzi%E8%A7%A3%E8%AF%B4%23&Refer=top) 165511
+1. [广州地铁全线网所有车站恢复正常运营](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%9C%B0%E9%93%81%E5%85%A8%E7%BA%BF%E7%BD%91%E6%89%80%E6%9C%89%E8%BD%A6%E7%AB%99%E6%81%A2%E5%A4%8D%E6%AD%A3%E5%B8%B8%E8%BF%90%E8%90%A5%23&Refer=top) 155100
 1. [突然就缓解了我的焦虑](https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E5%B0%B1%E7%BC%93%E8%A7%A3%E4%BA%86%E6%88%91%E7%9A%84%E7%84%A6%E8%99%91%23&Refer=top) 154638
 1. [中国新闻周刊说梦华录是今年唯一爆款古偶](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%96%B0%E9%97%BB%E5%91%A8%E5%88%8A%E8%AF%B4%E6%A2%A6%E5%8D%8E%E5%BD%95%E6%98%AF%E4%BB%8A%E5%B9%B4%E5%94%AF%E4%B8%80%E7%88%86%E6%AC%BE%E5%8F%A4%E5%81%B6%23&Refer=top) 144720
 1. [外婆首次用平板画画惊呆孙子](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%A9%86%E9%A6%96%E6%AC%A1%E7%94%A8%E5%B9%B3%E6%9D%BF%E7%94%BB%E7%94%BB%E6%83%8A%E5%91%86%E5%AD%99%E5%AD%90%23&Refer=top) 132846
@@ -66,9 +67,11 @@
 1. [乌鲁木齐疫情防控动态](https://s.weibo.com/weibo?q=%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E5%8A%A8%E6%80%81&Refer=top) 118839
 1. [RNG战胜LNG](https://s.weibo.com/weibo?q=RNG%E6%88%98%E8%83%9CLNG&Refer=top) 113796
 1. [女子称自己复活成仙骗男网友486万](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E8%87%AA%E5%B7%B1%E5%A4%8D%E6%B4%BB%E6%88%90%E4%BB%99%E9%AA%97%E7%94%B7%E7%BD%91%E5%8F%8B486%E4%B8%87%23&Refer=top) 110703
-1. [广州地铁全线网所有车站恢复正常运营](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%9C%B0%E9%93%81%E5%85%A8%E7%BA%BF%E7%BD%91%E6%89%80%E6%9C%89%E8%BD%A6%E7%AB%99%E6%81%A2%E5%A4%8D%E6%AD%A3%E5%B8%B8%E8%BF%90%E8%90%A5%23&Refer=top) 102297
 1. [上海台风](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%8F%B0%E9%A3%8E%23&Refer=top) 97614
 1. [7条定律助你提升自我](https://s.weibo.com/weibo?q=%237%E6%9D%A1%E5%AE%9A%E5%BE%8B%E5%8A%A9%E4%BD%A0%E6%8F%90%E5%8D%87%E8%87%AA%E6%88%91%23&Refer=top) 91148
+1. [那英撒贝宁50分钟做了3桌菜](https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%E6%92%92%E8%B4%9D%E5%AE%8150%E5%88%86%E9%92%9F%E5%81%9A%E4%BA%863%E6%A1%8C%E8%8F%9C%23&Refer=top) 70206
+1. [NH金色的雨](https://s.weibo.com/weibo?q=%23NH%E9%87%91%E8%89%B2%E7%9A%84%E9%9B%A8%23&Refer=top) 50142
+1. [实现躺平午休有多舒服](https://s.weibo.com/weibo?q=%23%E5%AE%9E%E7%8E%B0%E8%BA%BA%E5%B9%B3%E5%8D%88%E4%BC%91%E6%9C%89%E5%A4%9A%E8%88%92%E6%9C%8D%23&Refer=top) 30520
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
