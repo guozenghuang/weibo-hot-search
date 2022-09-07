@@ -17,14 +17,15 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-09-08 01:34:22
+最后更新时间 2022-09-08 02:29:03
 
-1. [iPhone14](https://s.weibo.com/weibo?q=%23iPhone14%23&Refer=top) 1823062
+1. [iPhone14](https://s.weibo.com/weibo?q=%23iPhone14%23&Refer=top) 2282408
 1. [苹果发布会](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A%23&Refer=top) 1553161
 1. [他们全力以赴只为泸定早日安定](https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%AC%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4%E5%8F%AA%E4%B8%BA%E6%B3%B8%E5%AE%9A%E6%97%A9%E6%97%A5%E5%AE%89%E5%AE%9A%23&Refer=top) 1476335
 1. [苹果2022秋季发布会同声传译](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C2022%E7%A7%8B%E5%AD%A3%E5%8F%91%E5%B8%83%E4%BC%9A%E5%90%8C%E5%A3%B0%E4%BC%A0%E8%AF%91%23&Refer=top) 1404170
 1. [成都疫情防控](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23&Refer=top) 1244734
 1. [苹果新品](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%96%B0%E5%93%81%23&Refer=top) 1115122
+1. [iPhone14 Plus](https://s.weibo.com/weibo?q=iPhone14%20Plus&Refer=top) 1089895
 1. [贵阳筛查到301例阳性感染者](https://s.weibo.com/weibo?q=%23%E8%B4%B5%E9%98%B3%E7%AD%9B%E6%9F%A5%E5%88%B0301%E4%BE%8B%E9%98%B3%E6%80%A7%E6%84%9F%E6%9F%93%E8%80%85%23&Refer=top) 541664
 1. [爱马仕被阿姨压坏](https://s.weibo.com/weibo?q=%23%E7%88%B1%E9%A9%AC%E4%BB%95%E8%A2%AB%E9%98%BF%E5%A7%A8%E5%8E%8B%E5%9D%8F%23&Refer=top) 535854
 1. [醉酒男子在电梯里殴打女邻居](https://s.weibo.com/weibo?q=%23%E9%86%89%E9%85%92%E7%94%B7%E5%AD%90%E5%9C%A8%E7%94%B5%E6%A2%AF%E9%87%8C%E6%AE%B4%E6%89%93%E5%A5%B3%E9%82%BB%E5%B1%85%23&Refer=top) 534044
@@ -74,7 +75,9 @@
 1. [俄罗斯正在放弃使用美元和英镑](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E6%AD%A3%E5%9C%A8%E6%94%BE%E5%BC%83%E4%BD%BF%E7%94%A8%E7%BE%8E%E5%85%83%E5%92%8C%E8%8B%B1%E9%95%91%23&Refer=top) 98210
 1. [苹果发布会有哪些亮点](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BA%AE%E7%82%B9%23&Refer=top) 95721
 1. [苍兰诀](https://s.weibo.com/weibo?q=%23%E8%8B%8D%E5%85%B0%E8%AF%80%23&Refer=top) 91160
-1. [贵阳将从7方面完善物资配送](https://s.weibo.com/weibo?q=%23%E8%B4%B5%E9%98%B3%E5%B0%86%E4%BB%8E7%E6%96%B9%E9%9D%A2%E5%AE%8C%E5%96%84%E7%89%A9%E8%B5%84%E9%85%8D%E9%80%81%23&Refer=top) 49186
+1. [贵阳将从7方面完善物资配送](https://s.weibo.com/weibo?q=%23%E8%B4%B5%E9%98%B3%E5%B0%86%E4%BB%8E7%E6%96%B9%E9%9D%A2%E5%AE%8C%E5%96%84%E7%89%A9%E8%B5%84%E9%85%8D%E9%80%81%23&Refer=top) 74116
+1. [焦俊艳说新时代女性都是春笋姑娘](https://s.weibo.com/weibo?q=%23%E7%84%A6%E4%BF%8A%E8%89%B3%E8%AF%B4%E6%96%B0%E6%97%B6%E4%BB%A3%E5%A5%B3%E6%80%A7%E9%83%BD%E6%98%AF%E6%98%A5%E7%AC%8B%E5%A7%91%E5%A8%98%23&Refer=top) 71971
+1. [金珉锡将9月26日solo出道](https://s.weibo.com/weibo?q=%23%E9%87%91%E7%8F%89%E9%94%A1%E5%B0%869%E6%9C%8826%E6%97%A5solo%E5%87%BA%E9%81%93%23&Refer=top) 35506
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
