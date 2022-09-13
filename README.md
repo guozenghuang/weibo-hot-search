@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-09-14 04:25:34
+最后更新时间 2022-09-14 05:21:39
 
 1. [羊了个羊 bug](https://s.weibo.com/weibo?q=%E7%BE%8A%E4%BA%86%E4%B8%AA%E7%BE%8A%20bug&t=31&band_rank=1&Refer=top) 4428299
 1. [人民网评张翰新剧](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E5%BC%A0%E7%BF%B0%E6%96%B0%E5%89%A7%23&t=31&band_rank=2&Refer=top) 3350226
@@ -73,10 +73,11 @@
 1. [第一次在鱼脸上看到了表情](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E9%B1%BC%E8%84%B8%E4%B8%8A%E7%9C%8B%E5%88%B0%E4%BA%86%E8%A1%A8%E6%83%85%23&t=31&band_rank=27&Refer=top) 89671
 1. [肖晨下线](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%99%A8%E4%B8%8B%E7%BA%BF%23&t=31&band_rank=50&Refer=top) 88450
 1. [大学生才不会觉得幼稚](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%89%8D%E4%B8%8D%E4%BC%9A%E8%A7%89%E5%BE%97%E5%B9%BC%E7%A8%9A%23&t=31&band_rank=41&Refer=top) 87684
+1. [3岁幼童被牵绳大狗咬伤](https://s.weibo.com/weibo?q=%233%E5%B2%81%E5%B9%BC%E7%AB%A5%E8%A2%AB%E7%89%B5%E7%BB%B3%E5%A4%A7%E7%8B%97%E5%92%AC%E4%BC%A4%23&t=31&band_rank=30&Refer=top) 60861
 1. [一念关山全员开机照](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%E5%85%A8%E5%91%98%E5%BC%80%E6%9C%BA%E7%85%A7%23&t=31&band_rank=45&Refer=top) 51561
 1. [妈妈带宝宝看猩猩反被围观](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%B8%A6%E5%AE%9D%E5%AE%9D%E7%9C%8B%E7%8C%A9%E7%8C%A9%E5%8F%8D%E8%A2%AB%E5%9B%B4%E8%A7%82%23&t=31&band_rank=26&Refer=top) 50795
 1. [陈宇杨玲深情告别](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%AE%87%E6%9D%A8%E7%8E%B2%E6%B7%B1%E6%83%85%E5%91%8A%E5%88%AB%23&t=31&band_rank=50&Refer=top) 37372
-1. [3岁幼童被牵绳大狗咬伤](https://s.weibo.com/weibo?q=%233%E5%B2%81%E5%B9%BC%E7%AB%A5%E8%A2%AB%E7%89%B5%E7%BB%B3%E5%A4%A7%E7%8B%97%E5%92%AC%E4%BC%A4%23&t=31&band_rank=30&Refer=top) 18748
+1. [什么都能武器化的美国该停手了](https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E9%83%BD%E8%83%BD%E6%AD%A6%E5%99%A8%E5%8C%96%E7%9A%84%E7%BE%8E%E5%9B%BD%E8%AF%A5%E5%81%9C%E6%89%8B%E4%BA%86%23&t=31&band_rank=49&Refer=top) 8864
 1. [姐姐嫌妈妈太凶亲自辅导弟弟被气哭](https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%90%E5%AB%8C%E5%A6%88%E5%A6%88%E5%A4%AA%E5%87%B6%E4%BA%B2%E8%87%AA%E8%BE%85%E5%AF%BC%E5%BC%9F%E5%BC%9F%E8%A2%AB%E6%B0%94%E5%93%AD%23&t=31&band_rank=50&Refer=top) 8688
 <!-- Rank End -->
 
