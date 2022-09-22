@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-09-23 01:33:47
+最后更新时间 2022-09-23 02:29:29
 
 1. [上海不再全面禁止路边摊](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%8D%E5%86%8D%E5%85%A8%E9%9D%A2%E7%A6%81%E6%AD%A2%E8%B7%AF%E8%BE%B9%E6%91%8A%23&t=31&band_rank=1&Refer=top) 1757360
 1. [深圳楼盘604套千万豪宅一天卖光](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%A5%BC%E7%9B%98604%E5%A5%97%E5%8D%83%E4%B8%87%E8%B1%AA%E5%AE%85%E4%B8%80%E5%A4%A9%E5%8D%96%E5%85%89%23&t=31&band_rank=2&Refer=top) 661509
@@ -34,6 +34,7 @@
 1. [覆流年 be](https://s.weibo.com/weibo?q=%23%E8%A6%86%E6%B5%81%E5%B9%B4%20be%23&t=31&band_rank=13&Refer=top) 272175
 1. [邻居骗走钥匙将下水管装满天花板](https://s.weibo.com/weibo?q=%23%E9%82%BB%E5%B1%85%E9%AA%97%E8%B5%B0%E9%92%A5%E5%8C%99%E5%B0%86%E4%B8%8B%E6%B0%B4%E7%AE%A1%E8%A3%85%E6%BB%A1%E5%A4%A9%E8%8A%B1%E6%9D%BF%23&t=31&band_rank=14&Refer=top) 271782
 1. [孙杨10年后收到世界纪录证书](https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%9D%A810%E5%B9%B4%E5%90%8E%E6%94%B6%E5%88%B0%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%E8%AF%81%E4%B9%A6%23&t=31&band_rank=15&Refer=top) 258315
+1. [南京一小学让孩子躺着午睡](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E4%B8%80%E5%B0%8F%E5%AD%A6%E8%AE%A9%E5%AD%A9%E5%AD%90%E8%BA%BA%E7%9D%80%E5%8D%88%E7%9D%A1%23&t=31&band_rank=47&Refer=top) 231792
 1. [韩总统私下吐槽美国会议员为崽子](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E6%80%BB%E7%BB%9F%E7%A7%81%E4%B8%8B%E5%90%90%E6%A7%BD%E7%BE%8E%E5%9B%BD%E4%BC%9A%E8%AE%AE%E5%91%98%E4%B8%BA%E5%B4%BD%E5%AD%90%23&t=31&band_rank=16&Refer=top) 200353
 1. [男子醉驾连撞6车甩锅给妹妹](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%86%89%E9%A9%BE%E8%BF%9E%E6%92%9E6%E8%BD%A6%E7%94%A9%E9%94%85%E7%BB%99%E5%A6%B9%E5%A6%B9%23&t=31&band_rank=17&Refer=top) 197119
 1. [被淡颜美人惊艳的瞬间](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%B7%A1%E9%A2%9C%E7%BE%8E%E4%BA%BA%E6%83%8A%E8%89%B3%E7%9A%84%E7%9E%AC%E9%97%B4%23&t=31&band_rank=18&Refer=top) 187252
@@ -51,7 +52,6 @@
 1. [潘粤明新剧开分8.2](https://s.weibo.com/weibo?q=%23%E6%BD%98%E7%B2%A4%E6%98%8E%E6%96%B0%E5%89%A7%E5%BC%80%E5%88%868.2%23&t=31&band_rank=29&Refer=top) 130533
 1. [印外长称与华关系恢复正常是印当下外交政策重点](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%A4%96%E9%95%BF%E7%A7%B0%E4%B8%8E%E5%8D%8E%E5%85%B3%E7%B3%BB%E6%81%A2%E5%A4%8D%E6%AD%A3%E5%B8%B8%E6%98%AF%E5%8D%B0%E5%BD%93%E4%B8%8B%E5%A4%96%E4%BA%A4%E6%94%BF%E7%AD%96%E9%87%8D%E7%82%B9%23&t=31&band_rank=30&Refer=top) 127573
 1. [富士康拆除iPhone部分产线](https://s.weibo.com/weibo?q=%23%E5%AF%8C%E5%A3%AB%E5%BA%B7%E6%8B%86%E9%99%A4iPhone%E9%83%A8%E5%88%86%E4%BA%A7%E7%BA%BF%23&t=31&band_rank=31&Refer=top) 126963
-1. [南京一小学让孩子躺着午睡](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E4%B8%80%E5%B0%8F%E5%AD%A6%E8%AE%A9%E5%AD%A9%E5%AD%90%E8%BA%BA%E7%9D%80%E5%8D%88%E7%9D%A1%23&t=31&band_rank=47&Refer=top) 119512
 1. [张远天天向上跳爱你好甜](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%BF%9C%E5%A4%A9%E5%A4%A9%E5%90%91%E4%B8%8A%E8%B7%B3%E7%88%B1%E4%BD%A0%E5%A5%BD%E7%94%9C%23&t=31&band_rank=16&Refer=top) 118836
 1. [胡金秋小腿骨折](https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%87%91%E7%A7%8B%E5%B0%8F%E8%85%BF%E9%AA%A8%E6%8A%98%23&t=31&band_rank=32&Refer=top) 112673
 1. [秦皇岛巨型漫画云](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E7%9A%87%E5%B2%9B%E5%B7%A8%E5%9E%8B%E6%BC%AB%E7%94%BB%E4%BA%91%23&t=31&band_rank=33&Refer=top) 107515
@@ -69,9 +69,12 @@
 1. [研究称地球上共有2亿亿只蚂蚁](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%A7%B0%E5%9C%B0%E7%90%83%E4%B8%8A%E5%85%B1%E6%9C%892%E4%BA%BF%E4%BA%BF%E5%8F%AA%E8%9A%82%E8%9A%81%23&t=31&band_rank=45&Refer=top) 70707
 1. [原来手机可以一键转移数据](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%89%8B%E6%9C%BA%E5%8F%AF%E4%BB%A5%E4%B8%80%E9%94%AE%E8%BD%AC%E7%A7%BB%E6%95%B0%E6%8D%AE%23&t=31&band_rank=46&Refer=top) 70597
 1. [5岁男孩礼貌求摸警犬获众人鼓励](https://s.weibo.com/weibo?q=%235%E5%B2%81%E7%94%B7%E5%AD%A9%E7%A4%BC%E8%B2%8C%E6%B1%82%E6%91%B8%E8%AD%A6%E7%8A%AC%E8%8E%B7%E4%BC%97%E4%BA%BA%E9%BC%93%E5%8A%B1%23&t=31&band_rank=29&Refer=top) 60976
+1. [女子办证时偷偷递纸条给民警求助](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8A%9E%E8%AF%81%E6%97%B6%E5%81%B7%E5%81%B7%E9%80%92%E7%BA%B8%E6%9D%A1%E7%BB%99%E6%B0%91%E8%AD%A6%E6%B1%82%E5%8A%A9%23&t=31&band_rank=18&Refer=top) 45405
 1. [高质量居家好物](https://s.weibo.com/weibo?q=%E9%AB%98%E8%B4%A8%E9%87%8F%E5%B1%85%E5%AE%B6%E5%A5%BD%E7%89%A9&t=31&band_rank=48&Refer=top) 38770
 1. [这里是流浪猫的天堂吧](https://s.weibo.com/weibo?q=%23%E8%BF%99%E9%87%8C%E6%98%AF%E6%B5%81%E6%B5%AA%E7%8C%AB%E7%9A%84%E5%A4%A9%E5%A0%82%E5%90%A7%23&t=31&band_rank=49&Refer=top) 32826
 1. [妈妈担心白化病女儿上幼儿园被孤立](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E6%8B%85%E5%BF%83%E7%99%BD%E5%8C%96%E7%97%85%E5%A5%B3%E5%84%BF%E4%B8%8A%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%A2%AB%E5%AD%A4%E7%AB%8B%23&t=31&band_rank=50&Refer=top) 30765
+1. [S12选手评分](https://s.weibo.com/weibo?q=%23S12%E9%80%89%E6%89%8B%E8%AF%84%E5%88%86%23&t=31&band_rank=49&Refer=top) 14959
+1. [顾客称吃饭被收20元空调费](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E7%A7%B0%E5%90%83%E9%A5%AD%E8%A2%AB%E6%94%B620%E5%85%83%E7%A9%BA%E8%B0%83%E8%B4%B9%23&t=31&band_rank=50&Refer=top) 12573
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
