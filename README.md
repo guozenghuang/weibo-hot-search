@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-09-25 04:24:50
+最后更新时间 2022-09-25 05:20:59
 
 1. [教育部回应降低英语教学比重建议](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E9%99%8D%E4%BD%8E%E8%8B%B1%E8%AF%AD%E6%95%99%E5%AD%A6%E6%AF%94%E9%87%8D%E5%BB%BA%E8%AE%AE%23&t=31&band_rank=1&Refer=top) 2133060
 1. [日本将用网红宣传福岛食品](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B0%86%E7%94%A8%E7%BD%91%E7%BA%A2%E5%AE%A3%E4%BC%A0%E7%A6%8F%E5%B2%9B%E9%A3%9F%E5%93%81%23&t=31&band_rank=11&Refer=top) 1096546
@@ -72,15 +72,22 @@
 1. [3女孩骑车被陌生男子追逐骚扰](https://s.weibo.com/weibo?q=%233%E5%A5%B3%E5%AD%A9%E9%AA%91%E8%BD%A6%E8%A2%AB%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E8%BF%BD%E9%80%90%E9%AA%9A%E6%89%B0%23&t=31&band_rank=50&Refer=top) 60563
 1. [成毅自带综艺笑果](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E8%87%AA%E5%B8%A6%E7%BB%BC%E8%89%BA%E7%AC%91%E6%9E%9C%23&t=31&band_rank=21&Refer=top) 42625
 1. [爱好真的能当饭吃吗](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%BD%E7%9C%9F%E7%9A%84%E8%83%BD%E5%BD%93%E9%A5%AD%E5%90%83%E5%90%97%23&t=31&band_rank=48&Refer=top) 28239
+1. [美国里根号航母战斗群抵韩](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%87%8C%E6%A0%B9%E5%8F%B7%E8%88%AA%E6%AF%8D%E6%88%98%E6%96%97%E7%BE%A4%E6%8A%B5%E9%9F%A9%23&t=31&band_rank=47&Refer=top) 25494
+1. [地铁西安站将于2022年9月25日开通运营](https://s.weibo.com/weibo?q=%E5%9C%B0%E9%93%81%E8%A5%BF%E5%AE%89%E7%AB%99%E5%B0%86%E4%BA%8E2022%E5%B9%B49%E6%9C%8825%E6%97%A5%E5%BC%80%E9%80%9A%E8%BF%90%E8%90%A5&t=31&band_rank=12&Refer=top) 24972
 1. [植物肉企业股价暴跌76%](https://s.weibo.com/weibo?q=%23%E6%A4%8D%E7%89%A9%E8%82%89%E4%BC%81%E4%B8%9A%E8%82%A1%E4%BB%B7%E6%9A%B4%E8%B7%8C76%25%23&t=31&band_rank=12&Refer=top) 24326
+1. [大妈连续10月小区吹乐器扰民](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88%E8%BF%9E%E7%BB%AD10%E6%9C%88%E5%B0%8F%E5%8C%BA%E5%90%B9%E4%B9%90%E5%99%A8%E6%89%B0%E6%B0%91%23&t=31&band_rank=14&Refer=top) 23851
 1. [中学教室后排设蹲班制老师引热议](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E6%95%99%E5%AE%A4%E5%90%8E%E6%8E%92%E8%AE%BE%E8%B9%B2%E7%8F%AD%E5%88%B6%E8%80%81%E5%B8%88%E5%BC%95%E7%83%AD%E8%AE%AE%23&t=31&band_rank=40&Refer=top) 22877
 1. [迪丽热巴说迎光而聚共赴热爱](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%AF%B4%E8%BF%8E%E5%85%89%E8%80%8C%E8%81%9A%E5%85%B1%E8%B5%B4%E7%83%AD%E7%88%B1%23&t=31&band_rank=49&Refer=top) 16346
 1. [河南大学110岁了](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%A4%A7%E5%AD%A6110%E5%B2%81%E4%BA%86%23&t=31&band_rank=39&Refer=top) 9815
 1. [大熊猫自拍和他拍差别好大](https://s.weibo.com/weibo?q=%E5%A4%A7%E7%86%8A%E7%8C%AB%E8%87%AA%E6%8B%8D%E5%92%8C%E4%BB%96%E6%8B%8D%E5%B7%AE%E5%88%AB%E5%A5%BD%E5%A4%A7&t=31&band_rank=44&Refer=top) 7371
+1. [英足总对C罗提出指控](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E8%B6%B3%E6%80%BB%E5%AF%B9C%E7%BD%97%E6%8F%90%E5%87%BA%E6%8C%87%E6%8E%A7%23&t=31&band_rank=44&Refer=top) 6395
+1. [幽门螺杆菌感染存家庭聚集现象](https://s.weibo.com/weibo?q=%23%E5%B9%BD%E9%97%A8%E8%9E%BA%E6%9D%86%E8%8F%8C%E6%84%9F%E6%9F%93%E5%AD%98%E5%AE%B6%E5%BA%AD%E8%81%9A%E9%9B%86%E7%8E%B0%E8%B1%A1%23&t=31&band_rank=45&Refer=top) 5925
 1. [从辽宁舰到福建舰](https://s.weibo.com/weibo?q=%23%E4%BB%8E%E8%BE%BD%E5%AE%81%E8%88%B0%E5%88%B0%E7%A6%8F%E5%BB%BA%E8%88%B0%23&t=31&band_rank=46&Refer=top) 5841
-1. [美国里根号航母战斗群抵韩](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%87%8C%E6%A0%B9%E5%8F%B7%E8%88%AA%E6%AF%8D%E6%88%98%E6%96%97%E7%BE%A4%E6%8A%B5%E9%9F%A9%23&t=31&band_rank=47&Refer=top) 5810
 1. [拜登撤销阿富汗非北约主要盟国地位](https://s.weibo.com/weibo?q=%E6%8B%9C%E7%99%BB%E6%92%A4%E9%94%80%E9%98%BF%E5%AF%8C%E6%B1%97%E9%9D%9E%E5%8C%97%E7%BA%A6%E4%B8%BB%E8%A6%81%E7%9B%9F%E5%9B%BD%E5%9C%B0%E4%BD%8D&t=31&band_rank=49&Refer=top) 5744
 1. [3门学科老师同台展示摩擦起电实验](https://s.weibo.com/weibo?q=%233%E9%97%A8%E5%AD%A6%E7%A7%91%E8%80%81%E5%B8%88%E5%90%8C%E5%8F%B0%E5%B1%95%E7%A4%BA%E6%91%A9%E6%93%A6%E8%B5%B7%E7%94%B5%E5%AE%9E%E9%AA%8C%23&t=31&band_rank=50&Refer=top) 5714
+1. [儿子偷偷买摩托车为父亲圆梦](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E5%81%B7%E5%81%B7%E4%B9%B0%E6%91%A9%E6%89%98%E8%BD%A6%E4%B8%BA%E7%88%B6%E4%BA%B2%E5%9C%86%E6%A2%A6%23&t=31&band_rank=47&Refer=top) 5594
+1. [高校男生在宿舍打造诗意书桌](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E7%94%B7%E7%94%9F%E5%9C%A8%E5%AE%BF%E8%88%8D%E6%89%93%E9%80%A0%E8%AF%97%E6%84%8F%E4%B9%A6%E6%A1%8C%23&t=31&band_rank=49&Refer=top) 5132
+1. [7岁女孩古筝演奏战台风气势十足](https://s.weibo.com/weibo?q=%237%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%8F%A4%E7%AD%9D%E6%BC%94%E5%A5%8F%E6%88%98%E5%8F%B0%E9%A3%8E%E6%B0%94%E5%8A%BF%E5%8D%81%E8%B6%B3%23&t=31&band_rank=50&Refer=top) 5086
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
