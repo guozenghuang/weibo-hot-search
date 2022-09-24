@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-09-25 01:25:40
+最后更新时间 2022-09-25 02:29:54
 
 1. [教育部回应降低英语教学比重建议](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E9%99%8D%E4%BD%8E%E8%8B%B1%E8%AF%AD%E6%95%99%E5%AD%A6%E6%AF%94%E9%87%8D%E5%BB%BA%E8%AE%AE%23&t=31&band_rank=1&Refer=top) 2133060
 1. [日本将用网红宣传福岛食品](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B0%86%E7%94%A8%E7%BD%91%E7%BA%A2%E5%AE%A3%E4%BC%A0%E7%A6%8F%E5%B2%9B%E9%A3%9F%E5%93%81%23&t=31&band_rank=11&Refer=top) 1096546
@@ -67,10 +67,13 @@
 1. [趵突泉3只胖锦鲤组团出游](https://s.weibo.com/weibo?q=%23%E8%B6%B5%E7%AA%81%E6%B3%893%E5%8F%AA%E8%83%96%E9%94%A6%E9%B2%A4%E7%BB%84%E5%9B%A2%E5%87%BA%E6%B8%B8%23&t=31&band_rank=46&Refer=top) 66913
 1. [北航举行校园集体婚礼](https://s.weibo.com/weibo?q=%23%E5%8C%97%E8%88%AA%E4%B8%BE%E8%A1%8C%E6%A0%A1%E5%9B%AD%E9%9B%86%E4%BD%93%E5%A9%9A%E7%A4%BC%23&t=31&band_rank=47&Refer=top) 65570
 1. [李荣浩范丞丞节奏游戏一次过](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8D%A3%E6%B5%A9%E8%8C%83%E4%B8%9E%E4%B8%9E%E8%8A%82%E5%A5%8F%E6%B8%B8%E6%88%8F%E4%B8%80%E6%AC%A1%E8%BF%87%23&t=31&band_rank=48&Refer=top) 65556
+1. [学校回应女学生月考6科霸榜](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%A6%E7%94%9F%E6%9C%88%E8%80%836%E7%A7%91%E9%9C%B8%E6%A6%9C%23&t=31&band_rank=50&Refer=top) 64535
 1. [泰国的海底捞更社死](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E7%9A%84%E6%B5%B7%E5%BA%95%E6%8D%9E%E6%9B%B4%E7%A4%BE%E6%AD%BB%23&t=31&band_rank=49&Refer=top) 61416
 1. [3女孩骑车被陌生男子追逐骚扰](https://s.weibo.com/weibo?q=%233%E5%A5%B3%E5%AD%A9%E9%AA%91%E8%BD%A6%E8%A2%AB%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E8%BF%BD%E9%80%90%E9%AA%9A%E6%89%B0%23&t=31&band_rank=50&Refer=top) 60563
+1. [成毅自带综艺笑果](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E8%87%AA%E5%B8%A6%E7%BB%BC%E8%89%BA%E7%AC%91%E6%9E%9C%23&t=31&band_rank=21&Refer=top) 42625
 1. [爱好真的能当饭吃吗](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%BD%E7%9C%9F%E7%9A%84%E8%83%BD%E5%BD%93%E9%A5%AD%E5%90%83%E5%90%97%23&t=31&band_rank=48&Refer=top) 28239
-1. [学校回应女学生月考6科霸榜](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%A6%E7%94%9F%E6%9C%88%E8%80%836%E7%A7%91%E9%9C%B8%E6%A6%9C%23&t=31&band_rank=50&Refer=top) 24279
+1. [中学教室后排设蹲班制老师引热议](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E6%95%99%E5%AE%A4%E5%90%8E%E6%8E%92%E8%AE%BE%E8%B9%B2%E7%8F%AD%E5%88%B6%E8%80%81%E5%B8%88%E5%BC%95%E7%83%AD%E8%AE%AE%23&t=31&band_rank=40&Refer=top) 22877
+1. [迪丽热巴说迎光而聚共赴热爱](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%AF%B4%E8%BF%8E%E5%85%89%E8%80%8C%E8%81%9A%E5%85%B1%E8%B5%B4%E7%83%AD%E7%88%B1%23&t=31&band_rank=49&Refer=top) 16346
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
