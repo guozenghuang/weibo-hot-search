@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-09-29 04:27:26
+最后更新时间 2022-09-29 05:23:30
 
 1. [徐志胜全网最后一个大帅哥](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%BF%97%E8%83%9C%E5%85%A8%E7%BD%91%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E5%A4%A7%E5%B8%85%E5%93%A5%23&t=31&band_rank=1&Refer=top) 1124423
 1. [东方甄选回应下架玉米](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E5%9B%9E%E5%BA%94%E4%B8%8B%E6%9E%B6%E7%8E%89%E7%B1%B3%23&t=31&band_rank=2&Refer=top) 559761
@@ -73,16 +73,23 @@
 1. [让细节决定爱与不爱](https://s.weibo.com/weibo?q=%23%E8%AE%A9%E7%BB%86%E8%8A%82%E5%86%B3%E5%AE%9A%E7%88%B1%E4%B8%8E%E4%B8%8D%E7%88%B1%23&t=31&band_rank=36&Refer=top) 39829
 1. [江苏一中学起薪40万招聘教师](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E4%B8%80%E4%B8%AD%E5%AD%A6%E8%B5%B7%E8%96%AA40%E4%B8%87%E6%8B%9B%E8%81%98%E6%95%99%E5%B8%88%23&t=31&band_rank=21&Refer=top) 38407
 1. [中国女排神仙球](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E7%A5%9E%E4%BB%99%E7%90%83%23&t=31&band_rank=34&Refer=top) 33195
+1. [网传天津10月1日起封城3天系谣言](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%A4%A9%E6%B4%A510%E6%9C%881%E6%97%A5%E8%B5%B7%E5%B0%81%E5%9F%8E3%E5%A4%A9%E7%B3%BB%E8%B0%A3%E8%A8%80%23&t=31&band_rank=29&Refer=top) 30179
+1. [女子5小时用99个塑料袋做出婚纱](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%905%E5%B0%8F%E6%97%B6%E7%94%A899%E4%B8%AA%E5%A1%91%E6%96%99%E8%A2%8B%E5%81%9A%E5%87%BA%E5%A9%9A%E7%BA%B1%23&t=31&band_rank=49&Refer=top) 28375
+1. [美国海军乱排污被罚880万美元](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%B5%B7%E5%86%9B%E4%B9%B1%E6%8E%92%E6%B1%A1%E8%A2%AB%E7%BD%9A880%E4%B8%87%E7%BE%8E%E5%85%83%23&t=31&band_rank=21&Refer=top) 27351
 1. [赛博朋克边缘行者](https://s.weibo.com/weibo?q=%23%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E8%BE%B9%E7%BC%98%E8%A1%8C%E8%80%85%23&t=31&band_rank=49&Refer=top) 22765
 1. [昆明赋黄码70442人](https://s.weibo.com/weibo?q=%E6%98%86%E6%98%8E%E8%B5%8B%E9%BB%84%E7%A0%8170442%E4%BA%BA&t=31&band_rank=50&Refer=top) 20132
 1. [原来音乐会这么有趣](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%9F%B3%E4%B9%90%E4%BC%9A%E8%BF%99%E4%B9%88%E6%9C%89%E8%B6%A3%23&t=31&band_rank=40&Refer=top) 16823
-1. [美国海军乱排污被罚880万美元](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%B5%B7%E5%86%9B%E4%B9%B1%E6%8E%92%E6%B1%A1%E8%A2%AB%E7%BD%9A880%E4%B8%87%E7%BE%8E%E5%85%83%23&t=31&band_rank=21&Refer=top) 14760
 1. [认真吃饼干的小仓鼠](https://s.weibo.com/weibo?q=%23%E8%AE%A4%E7%9C%9F%E5%90%83%E9%A5%BC%E5%B9%B2%E7%9A%84%E5%B0%8F%E4%BB%93%E9%BC%A0%23&t=31&band_rank=35&Refer=top) 13990
-1. [网传天津10月1日起封城3天系谣言](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%A4%A9%E6%B4%A510%E6%9C%881%E6%97%A5%E8%B5%B7%E5%B0%81%E5%9F%8E3%E5%A4%A9%E7%B3%BB%E8%B0%A3%E8%A8%80%23&t=31&band_rank=29&Refer=top) 11469
 1. [清华医学硕士藏着313个笔帽的信封](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E5%8C%BB%E5%AD%A6%E7%A1%95%E5%A3%AB%E8%97%8F%E7%9D%80313%E4%B8%AA%E7%AC%94%E5%B8%BD%E7%9A%84%E4%BF%A1%E5%B0%81%23&t=31&band_rank=44&Refer=top) 10924
+1. [接梗还得是看大张伟](https://s.weibo.com/weibo?q=%23%E6%8E%A5%E6%A2%97%E8%BF%98%E5%BE%97%E6%98%AF%E7%9C%8B%E5%A4%A7%E5%BC%A0%E4%BC%9F%23&t=31&band_rank=40&Refer=top) 9541
+1. [昆明本轮疫情传播链条基本清晰](https://s.weibo.com/weibo?q=%23%E6%98%86%E6%98%8E%E6%9C%AC%E8%BD%AE%E7%96%AB%E6%83%85%E4%BC%A0%E6%92%AD%E9%93%BE%E6%9D%A1%E5%9F%BA%E6%9C%AC%E6%B8%85%E6%99%B0%23&t=31&band_rank=41&Refer=top) 8621
+1. [男生晕血被舍友用衣服包头抽血](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E6%99%95%E8%A1%80%E8%A2%AB%E8%88%8D%E5%8F%8B%E7%94%A8%E8%A1%A3%E6%9C%8D%E5%8C%85%E5%A4%B4%E6%8A%BD%E8%A1%80%23&t=31&band_rank=43&Refer=top) 8019
+1. [外交部回应美国务卿呼吁巴基斯坦向中国申请债务免除](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E5%8A%A1%E5%8D%BF%E5%91%BC%E5%90%81%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%90%91%E4%B8%AD%E5%9B%BD%E7%94%B3%E8%AF%B7%E5%80%BA%E5%8A%A1%E5%85%8D%E9%99%A4%23&t=31&band_rank=44&Refer=top) 7961
+1. [中国女排5人得分上双](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%925%E4%BA%BA%E5%BE%97%E5%88%86%E4%B8%8A%E5%8F%8C%23&t=31&band_rank=47&Refer=top) 7225
 1. [货车拉一车斗的奥特曼被交警拦下](https://s.weibo.com/weibo?q=%23%E8%B4%A7%E8%BD%A6%E6%8B%89%E4%B8%80%E8%BD%A6%E6%96%97%E7%9A%84%E5%A5%A5%E7%89%B9%E6%9B%BC%E8%A2%AB%E4%BA%A4%E8%AD%A6%E6%8B%A6%E4%B8%8B%23&t=31&band_rank=47&Refer=top) 7201
+1. [张彬彬低音炮清唱](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%BD%AC%E5%BD%AC%E4%BD%8E%E9%9F%B3%E7%82%AE%E6%B8%85%E5%94%B1%23&t=31&band_rank=48&Refer=top) 7194
+1. [龚翔宇发球](https://s.weibo.com/weibo?q=%23%E9%BE%9A%E7%BF%94%E5%AE%87%E5%8F%91%E7%90%83%23&t=31&band_rank=50&Refer=top) 7151
 1. [这医生以前是干销售的吧](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%8C%BB%E7%94%9F%E4%BB%A5%E5%89%8D%E6%98%AF%E5%B9%B2%E9%94%80%E5%94%AE%E7%9A%84%E5%90%A7%23&t=31&band_rank=48&Refer=top) 6667
-1. [女子5小时用99个塑料袋做出婚纱](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%905%E5%B0%8F%E6%97%B6%E7%94%A899%E4%B8%AA%E5%A1%91%E6%96%99%E8%A2%8B%E5%81%9A%E5%87%BA%E5%A9%9A%E7%BA%B1%23&t=31&band_rank=49&Refer=top) 6166
 1. [7岁男孩啃梨一口硌掉2颗大门牙](https://s.weibo.com/weibo?q=%237%E5%B2%81%E7%94%B7%E5%AD%A9%E5%95%83%E6%A2%A8%E4%B8%80%E5%8F%A3%E7%A1%8C%E6%8E%892%E9%A2%97%E5%A4%A7%E9%97%A8%E7%89%99%23&t=31&band_rank=50&Refer=top) 6065
 <!-- Rank End -->
 
