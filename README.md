@@ -17,16 +17,16 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-09-30 00:38:51
+最后更新时间 2022-09-30 01:39:25
 
 1. [英国女王死因确认](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%A5%B3%E7%8E%8B%E6%AD%BB%E5%9B%A0%E7%A1%AE%E8%AE%A4%23&t=31&band_rank=1&Refer=top) 2847507
 1. [殡葬行业工作者不敢和别人一起过年](https://s.weibo.com/weibo?q=%23%E6%AE%A1%E8%91%AC%E8%A1%8C%E4%B8%9A%E5%B7%A5%E4%BD%9C%E8%80%85%E4%B8%8D%E6%95%A2%E5%92%8C%E5%88%AB%E4%BA%BA%E4%B8%80%E8%B5%B7%E8%BF%87%E5%B9%B4%23&t=31&band_rank=2&Refer=top) 448036
+1. [研究称肥胖是神经发育问题](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%A7%B0%E8%82%A5%E8%83%96%E6%98%AF%E7%A5%9E%E7%BB%8F%E5%8F%91%E8%82%B2%E9%97%AE%E9%A2%98%23&t=31&band_rank=8&Refer=top) 310565
 1. [网络辟谣我们一起行动](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BB%9C%E8%BE%9F%E8%B0%A3%E6%88%91%E4%BB%AC%E4%B8%80%E8%B5%B7%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=3&Refer=top) 309579
 1. [女子沉迷羊了个羊丈夫报警求助](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B2%89%E8%BF%B7%E7%BE%8A%E4%BA%86%E4%B8%AA%E7%BE%8A%E4%B8%88%E5%A4%AB%E6%8A%A5%E8%AD%A6%E6%B1%82%E5%8A%A9%23&t=31&band_rank=4&Refer=top) 298855
 1. [张若昀父亲有钱不还又成老赖](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E7%88%B6%E4%BA%B2%E6%9C%89%E9%92%B1%E4%B8%8D%E8%BF%98%E5%8F%88%E6%88%90%E8%80%81%E8%B5%96%23&t=31&band_rank=5&Refer=top) 297904
 1. [卖鱼西施直播称长得好看没用](https://s.weibo.com/weibo?q=%23%E5%8D%96%E9%B1%BC%E8%A5%BF%E6%96%BD%E7%9B%B4%E6%92%AD%E7%A7%B0%E9%95%BF%E5%BE%97%E5%A5%BD%E7%9C%8B%E6%B2%A1%E7%94%A8%23&t=31&band_rank=6&Refer=top) 260345
 1. [女子救流浪猫持续半年收到报恩礼](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%95%91%E6%B5%81%E6%B5%AA%E7%8C%AB%E6%8C%81%E7%BB%AD%E5%8D%8A%E5%B9%B4%E6%94%B6%E5%88%B0%E6%8A%A5%E6%81%A9%E7%A4%BC%23&t=31&band_rank=7&Refer=top) 241277
-1. [研究称肥胖是神经发育问题](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%A7%B0%E8%82%A5%E8%83%96%E6%98%AF%E7%A5%9E%E7%BB%8F%E5%8F%91%E8%82%B2%E9%97%AE%E9%A2%98%23&t=31&band_rank=8&Refer=top) 225977
 1. [李庚希把我演哭了](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%BA%9A%E5%B8%8C%E6%8A%8A%E6%88%91%E6%BC%94%E5%93%AD%E4%BA%86%23&t=31&band_rank=9&Refer=top) 225873
 1. [北溪管道漏气速度未见放缓](https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%BA%AA%E7%AE%A1%E9%81%93%E6%BC%8F%E6%B0%94%E9%80%9F%E5%BA%A6%E6%9C%AA%E8%A7%81%E6%94%BE%E7%BC%93%23&t=31&band_rank=10&Refer=top) 220943
 1. [甄嬛在这个班也当不了班长](https://s.weibo.com/weibo?q=%23%E7%94%84%E5%AC%9B%E5%9C%A8%E8%BF%99%E4%B8%AA%E7%8F%AD%E4%B9%9F%E5%BD%93%E4%B8%8D%E4%BA%86%E7%8F%AD%E9%95%BF%23&t=31&band_rank=11&Refer=top) 210959
@@ -48,6 +48,7 @@
 1. [肩胛骨疼痛不要乱按摩](https://s.weibo.com/weibo?q=%23%E8%82%A9%E8%83%9B%E9%AA%A8%E7%96%BC%E7%97%9B%E4%B8%8D%E8%A6%81%E4%B9%B1%E6%8C%89%E6%91%A9%23&t=31&band_rank=27&Refer=top) 90305
 1. [俄以国际恐怖主义行为性质调查北溪事件](https://s.weibo.com/weibo?q=%23%E4%BF%84%E4%BB%A5%E5%9B%BD%E9%99%85%E6%81%90%E6%80%96%E4%B8%BB%E4%B9%89%E8%A1%8C%E4%B8%BA%E6%80%A7%E8%B4%A8%E8%B0%83%E6%9F%A5%E5%8C%97%E6%BA%AA%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=28&Refer=top) 85317
 1. [点读机女孩保研中传](https://s.weibo.com/weibo?q=%23%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9%E4%BF%9D%E7%A0%94%E4%B8%AD%E4%BC%A0%23&t=31&band_rank=29&Refer=top) 84192
+1. [医生给剪破的气球缝针后吹了起来](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E7%BB%99%E5%89%AA%E7%A0%B4%E7%9A%84%E6%B0%94%E7%90%83%E7%BC%9D%E9%92%88%E5%90%8E%E5%90%B9%E4%BA%86%E8%B5%B7%E6%9D%A5%23&t=31&band_rank=14&Refer=top) 83148
 1. [男子切柚子切掉一半才见果肉](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%88%87%E6%9F%9A%E5%AD%90%E5%88%87%E6%8E%89%E4%B8%80%E5%8D%8A%E6%89%8D%E8%A7%81%E6%9E%9C%E8%82%89%23&t=31&band_rank=30&Refer=top) 79460
 1. [万里归途](https://s.weibo.com/weibo?q=%E4%B8%87%E9%87%8C%E5%BD%92%E9%80%94&t=31&band_rank=31&Refer=top) 77720
 1. [虞书欣虞美人失恋一年后还爱着他](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%99%9E%E7%BE%8E%E4%BA%BA%E5%A4%B1%E6%81%8B%E4%B8%80%E5%B9%B4%E5%90%8E%E8%BF%98%E7%88%B1%E7%9D%80%E4%BB%96%23&t=31&band_rank=32&Refer=top) 76113
@@ -62,6 +63,7 @@
 1. [改编悬疑剧的还原度可以有多高](https://s.weibo.com/weibo?q=%23%E6%94%B9%E7%BC%96%E6%82%AC%E7%96%91%E5%89%A7%E7%9A%84%E8%BF%98%E5%8E%9F%E5%BA%A6%E5%8F%AF%E4%BB%A5%E6%9C%89%E5%A4%9A%E9%AB%98%23&t=31&band_rank=41&Refer=top) 58575
 1. [万里归途预售总票房破3000万](https://s.weibo.com/weibo?q=%23%E4%B8%87%E9%87%8C%E5%BD%92%E9%80%94%E9%A2%84%E5%94%AE%E6%80%BB%E7%A5%A8%E6%88%BF%E7%A0%B43000%E4%B8%87%23&t=31&band_rank=42&Refer=top) 58561
 1. [LBL](https://s.weibo.com/weibo?q=LBL&t=31&band_rank=43&Refer=top) 58540
+1. [周深唱新歌美美](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%94%B1%E6%96%B0%E6%AD%8C%E7%BE%8E%E7%BE%8E%23&t=31&band_rank=21&Refer=top) 55982
 1. [网购平价蛋糕有多绝](https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%B4%AD%E5%B9%B3%E4%BB%B7%E8%9B%8B%E7%B3%95%E6%9C%89%E5%A4%9A%E7%BB%9D%23&t=31&band_rank=44&Refer=top) 55132
 1. [王大伟搞假结婚欺骗组织](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%A4%A7%E4%BC%9F%E6%90%9E%E5%81%87%E7%BB%93%E5%A9%9A%E6%AC%BA%E9%AA%97%E7%BB%84%E7%BB%87%23&t=31&band_rank=45&Refer=top) 49489
 1. [集中或居家隔离时不得采取外锁门方式](https://s.weibo.com/weibo?q=%23%E9%9B%86%E4%B8%AD%E6%88%96%E5%B1%85%E5%AE%B6%E9%9A%94%E7%A6%BB%E6%97%B6%E4%B8%8D%E5%BE%97%E9%87%87%E5%8F%96%E5%A4%96%E9%94%81%E9%97%A8%E6%96%B9%E5%BC%8F%23&t=31&band_rank=46&Refer=top) 48837
@@ -69,6 +71,8 @@
 1. [废弃花盆如何养鲸鱼](https://s.weibo.com/weibo?q=%23%E5%BA%9F%E5%BC%83%E8%8A%B1%E7%9B%86%E5%A6%82%E4%BD%95%E5%85%BB%E9%B2%B8%E9%B1%BC%23&t=31&band_rank=48&Refer=top) 45387
 1. [每天走多少步比较好](https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A9%E8%B5%B0%E5%A4%9A%E5%B0%91%E6%AD%A5%E6%AF%94%E8%BE%83%E5%A5%BD%23&t=31&band_rank=49&Refer=top) 40305
 1. [10月天象预告来了](https://s.weibo.com/weibo?q=%2310%E6%9C%88%E5%A4%A9%E8%B1%A1%E9%A2%84%E5%91%8A%E6%9D%A5%E4%BA%86%23&t=31&band_rank=50&Refer=top) 40287
+1. [黄牛回收片仔癀最低仅400元](https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%89%9B%E5%9B%9E%E6%94%B6%E7%89%87%E4%BB%94%E7%99%80%E6%9C%80%E4%BD%8E%E4%BB%85400%E5%85%83%23&t=31&band_rank=35&Refer=top) 34590
+1. [狗狗被忘服务站主人开40公里接回](https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E8%A2%AB%E5%BF%98%E6%9C%8D%E5%8A%A1%E7%AB%99%E4%B8%BB%E4%BA%BA%E5%BC%8040%E5%85%AC%E9%87%8C%E6%8E%A5%E5%9B%9E%23&t=31&band_rank=50&Refer=top) 18414
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
