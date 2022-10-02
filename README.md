@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-10-03 01:29:24
+最后更新时间 2022-10-03 02:31:06
 
 1. [C罗](https://s.weibo.com/weibo?q=%23C%E7%BD%97%23&t=31&band_rank=1&Refer=top) 1447248
 1. [糊但好看的剧](https://s.weibo.com/weibo?q=%23%E7%B3%8A%E4%BD%86%E5%A5%BD%E7%9C%8B%E7%9A%84%E5%89%A7%23&t=31&band_rank=2&Refer=top) 1051524
@@ -53,12 +53,12 @@
 1. [太原新增5例感染者](https://s.weibo.com/weibo?q=%23%E5%A4%AA%E5%8E%9F%E6%96%B0%E5%A2%9E5%E4%BE%8B%E6%84%9F%E6%9F%93%E8%80%85%23&t=31&band_rank=42&Refer=top) 102297
 1. [没见过这么潦草的狗](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E8%A7%81%E8%BF%87%E8%BF%99%E4%B9%88%E6%BD%A6%E8%8D%89%E7%9A%84%E7%8B%97%23&t=31&band_rank=31&Refer=top) 101696
 1. [大爷捡19万现金苦等失主6小时](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%88%B7%E6%8D%A119%E4%B8%87%E7%8E%B0%E9%87%91%E8%8B%A6%E7%AD%89%E5%A4%B1%E4%B8%BB6%E5%B0%8F%E6%97%B6%23&t=31&band_rank=32&Refer=top) 100303
+1. [天津地震](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E5%9C%B0%E9%9C%87%23&t=31&band_rank=38&Refer=top) 96309
 1. [骗子打给民警报校名民警灵魂反问](https://s.weibo.com/weibo?q=%23%E9%AA%97%E5%AD%90%E6%89%93%E7%BB%99%E6%B0%91%E8%AD%A6%E6%8A%A5%E6%A0%A1%E5%90%8D%E6%B0%91%E8%AD%A6%E7%81%B5%E9%AD%82%E5%8F%8D%E9%97%AE%23&t=31&band_rank=33&Refer=top) 87664
 1. [我们的歌](https://s.weibo.com/weibo?q=%E6%88%91%E4%BB%AC%E7%9A%84%E6%AD%8C&t=31&band_rank=34&Refer=top) 86326
 1. [罗一舟关晓彤同框](https://s.weibo.com/weibo?q=%23%E7%BD%97%E4%B8%80%E8%88%9F%E5%85%B3%E6%99%93%E5%BD%A4%E5%90%8C%E6%A1%86%23&t=31&band_rank=35&Refer=top) 83635
 1. [被吓过的小猫有多记仇](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%90%93%E8%BF%87%E7%9A%84%E5%B0%8F%E7%8C%AB%E6%9C%89%E5%A4%9A%E8%AE%B0%E4%BB%87%23&t=31&band_rank=36&Refer=top) 79411
 1. [张艺兴为金晨新剧打call](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E4%B8%BA%E9%87%91%E6%99%A8%E6%96%B0%E5%89%A7%E6%89%93call%23&t=31&band_rank=37&Refer=top) 74868
-1. [天津地震](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E5%9C%B0%E9%9C%87%23&t=31&band_rank=38&Refer=top) 74702
 1. [电缆掉落致堵车夫妻俩托举90分钟](https://s.weibo.com/weibo?q=%23%E7%94%B5%E7%BC%86%E6%8E%89%E8%90%BD%E8%87%B4%E5%A0%B5%E8%BD%A6%E5%A4%AB%E5%A6%BB%E4%BF%A9%E6%89%98%E4%B8%BE90%E5%88%86%E9%92%9F%23&t=31&band_rank=39&Refer=top) 73486
 1. [安东尼世界波](https://s.weibo.com/weibo?q=%23%E5%AE%89%E4%B8%9C%E5%B0%BC%E4%B8%96%E7%95%8C%E6%B3%A2%23&t=31&band_rank=40&Refer=top) 72584
 1. [人生大事登顶中国台湾网飞电影榜](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%94%9F%E5%A4%A7%E4%BA%8B%E7%99%BB%E9%A1%B6%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E7%BD%91%E9%A3%9E%E7%94%B5%E5%BD%B1%E6%A6%9C%23&t=31&band_rank=41&Refer=top) 69683
@@ -71,6 +71,7 @@
 1. [哈兰德太强了](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%85%B0%E5%BE%B7%E5%A4%AA%E5%BC%BA%E4%BA%86%23&t=31&band_rank=49&Refer=top) 45579
 1. [哈兰德3分钟2球](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%85%B0%E5%BE%B73%E5%88%86%E9%92%9F2%E7%90%83%23&t=31&band_rank=50&Refer=top) 40314
 1. [陈哲远综艺之神降临](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E7%BB%BC%E8%89%BA%E4%B9%8B%E7%A5%9E%E9%99%8D%E4%B8%B4%23&t=31&band_rank=45&Refer=top) 28559
+1. [尼日利亚考虑买C919](https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9A%E8%80%83%E8%99%91%E4%B9%B0C919%23&t=31&band_rank=50&Refer=top) 13023
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
