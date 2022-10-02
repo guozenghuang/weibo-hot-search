@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-10-03 05:22:36
+最后更新时间 2022-10-03 06:24:57
 
 1. [C罗](https://s.weibo.com/weibo?q=%23C%E7%BD%97%23&t=31&band_rank=1&Refer=top) 1447248
 1. [糊但好看的剧](https://s.weibo.com/weibo?q=%23%E7%B3%8A%E4%BD%86%E5%A5%BD%E7%9C%8B%E7%9A%84%E5%89%A7%23&t=31&band_rank=2&Refer=top) 1051524
@@ -61,24 +61,25 @@
 1. [张艺兴为金晨新剧打call](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E4%B8%BA%E9%87%91%E6%99%A8%E6%96%B0%E5%89%A7%E6%89%93call%23&t=31&band_rank=37&Refer=top) 74868
 1. [电缆掉落致堵车夫妻俩托举90分钟](https://s.weibo.com/weibo?q=%23%E7%94%B5%E7%BC%86%E6%8E%89%E8%90%BD%E8%87%B4%E5%A0%B5%E8%BD%A6%E5%A4%AB%E5%A6%BB%E4%BF%A9%E6%89%98%E4%B8%BE90%E5%88%86%E9%92%9F%23&t=31&band_rank=39&Refer=top) 73486
 1. [安东尼世界波](https://s.weibo.com/weibo?q=%23%E5%AE%89%E4%B8%9C%E5%B0%BC%E4%B8%96%E7%95%8C%E6%B3%A2%23&t=31&band_rank=40&Refer=top) 72584
+1. [老师婚期临近62名学生偷偷送惊喜](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E5%A9%9A%E6%9C%9F%E4%B8%B4%E8%BF%9162%E5%90%8D%E5%AD%A6%E7%94%9F%E5%81%B7%E5%81%B7%E9%80%81%E6%83%8A%E5%96%9C%23&t=31&band_rank=25&Refer=top) 69754
 1. [人生大事登顶中国台湾网飞电影榜](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%94%9F%E5%A4%A7%E4%BA%8B%E7%99%BB%E9%A1%B6%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E7%BD%91%E9%A3%9E%E7%94%B5%E5%BD%B1%E6%A6%9C%23&t=31&band_rank=41&Refer=top) 69683
 1. [虞书欣小森林重新定义渣男](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%B0%8F%E6%A3%AE%E6%9E%97%E9%87%8D%E6%96%B0%E5%AE%9A%E4%B9%89%E6%B8%A3%E7%94%B7%23&t=31&band_rank=43&Refer=top) 61560
 1. [江苏人从短袖到秋裤可能只需一天](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E4%BA%BA%E4%BB%8E%E7%9F%AD%E8%A2%96%E5%88%B0%E7%A7%8B%E8%A3%A4%E5%8F%AF%E8%83%BD%E5%8F%AA%E9%9C%80%E4%B8%80%E5%A4%A9%23&t=31&band_rank=44&Refer=top) 58143
 1. [原来兔子掉毛这么夸张](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%85%94%E5%AD%90%E6%8E%89%E6%AF%9B%E8%BF%99%E4%B9%88%E5%A4%B8%E5%BC%A0%23&t=31&band_rank=45&Refer=top) 57697
+1. [男子公园跳街舞被小孩指着说神经](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%85%AC%E5%9B%AD%E8%B7%B3%E8%A1%97%E8%88%9E%E8%A2%AB%E5%B0%8F%E5%AD%A9%E6%8C%87%E7%9D%80%E8%AF%B4%E7%A5%9E%E7%BB%8F%23&t=31&band_rank=48&Refer=top) 57603
 1. [父母旅游时的主要区别](https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E6%97%85%E6%B8%B8%E6%97%B6%E7%9A%84%E4%B8%BB%E8%A6%81%E5%8C%BA%E5%88%AB%23&t=31&band_rank=46&Refer=top) 53010
 1. [曼市德比哈兰德帽子戏法](https://s.weibo.com/weibo?q=%23%E6%9B%BC%E5%B8%82%E5%BE%B7%E6%AF%94%E5%93%88%E5%85%B0%E5%BE%B7%E5%B8%BD%E5%AD%90%E6%88%8F%E6%B3%95%23&t=31&band_rank=47&Refer=top) 47949
 1. [成毅周亦安振作起来](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E5%91%A8%E4%BA%A6%E5%AE%89%E6%8C%AF%E4%BD%9C%E8%B5%B7%E6%9D%A5%23&t=31&band_rank=48&Refer=top) 47944
 1. [哈兰德太强了](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%85%B0%E5%BE%B7%E5%A4%AA%E5%BC%BA%E4%BA%86%23&t=31&band_rank=49&Refer=top) 45579
 1. [哈兰德3分钟2球](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%85%B0%E5%BE%B73%E5%88%86%E9%92%9F2%E7%90%83%23&t=31&band_rank=50&Refer=top) 40314
-1. [男子公园跳街舞被小孩指着说神经](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%85%AC%E5%9B%AD%E8%B7%B3%E8%A1%97%E8%88%9E%E8%A2%AB%E5%B0%8F%E5%AD%A9%E6%8C%87%E7%9D%80%E8%AF%B4%E7%A5%9E%E7%BB%8F%23&t=31&band_rank=48&Refer=top) 33229
+1. [2022年诺贝尔奖10月3日起陆续揭晓](https://s.weibo.com/weibo?q=%232022%E5%B9%B4%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%9610%E6%9C%883%E6%97%A5%E8%B5%B7%E9%99%86%E7%BB%AD%E6%8F%AD%E6%99%93%23&t=31&band_rank=19&Refer=top) 35727
 1. [尼日利亚考虑买C919](https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9A%E8%80%83%E8%99%91%E4%B9%B0C919%23&t=31&band_rank=50&Refer=top) 30477
-1. [2022年诺贝尔奖10月3日起陆续揭晓](https://s.weibo.com/weibo?q=%232022%E5%B9%B4%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%9610%E6%9C%883%E6%97%A5%E8%B5%B7%E9%99%86%E7%BB%AD%E6%8F%AD%E6%99%93%23&t=31&band_rank=19&Refer=top) 28713
+1. [熊猫被秋困冲昏了头脑](https://s.weibo.com/weibo?q=%23%E7%86%8A%E7%8C%AB%E8%A2%AB%E7%A7%8B%E5%9B%B0%E5%86%B2%E6%98%8F%E4%BA%86%E5%A4%B4%E8%84%91%23&t=31&band_rank=22&Refer=top) 30253
 1. [陈哲远综艺之神降临](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E7%BB%BC%E8%89%BA%E4%B9%8B%E7%A5%9E%E9%99%8D%E4%B8%B4%23&t=31&band_rank=45&Refer=top) 28559
-1. [老师婚期临近62名学生偷偷送惊喜](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E5%A9%9A%E6%9C%9F%E4%B8%B4%E8%BF%9162%E5%90%8D%E5%AD%A6%E7%94%9F%E5%81%B7%E5%81%B7%E9%80%81%E6%83%8A%E5%96%9C%23&t=31&band_rank=25&Refer=top) 17032
-1. [曾就读清华的90后飞行员夺金头盔](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E5%B0%B1%E8%AF%BB%E6%B8%85%E5%8D%8E%E7%9A%8490%E5%90%8E%E9%A3%9E%E8%A1%8C%E5%91%98%E5%A4%BA%E9%87%91%E5%A4%B4%E7%9B%94%23&t=31&band_rank=48&Refer=top) 13559
-1. [国庆假期郊区旅游约占36%](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E9%83%8A%E5%8C%BA%E6%97%85%E6%B8%B8%E7%BA%A6%E5%8D%A036%25%23&t=31&band_rank=43&Refer=top) 10690
+1. [关晓彤话剧舞台饰演秦怡](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E8%AF%9D%E5%89%A7%E8%88%9E%E5%8F%B0%E9%A5%B0%E6%BC%94%E7%A7%A6%E6%80%A1%23&t=31&band_rank=47&Refer=top) 25991
+1. [曾就读清华的90后飞行员夺金头盔](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E5%B0%B1%E8%AF%BB%E6%B8%85%E5%8D%8E%E7%9A%8490%E5%90%8E%E9%A3%9E%E8%A1%8C%E5%91%98%E5%A4%BA%E9%87%91%E5%A4%B4%E7%9B%94%23&t=31&band_rank=48&Refer=top) 22784
+1. [国庆假期郊区旅游约占36%](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E9%83%8A%E5%8C%BA%E6%97%85%E6%B8%B8%E7%BA%A6%E5%8D%A036%25%23&t=31&band_rank=43&Refer=top) 10818
 1. [袁一琦新歌大小孩首唱](https://s.weibo.com/weibo?q=%23%E8%A2%81%E4%B8%80%E7%90%A6%E6%96%B0%E6%AD%8C%E5%A4%A7%E5%B0%8F%E5%AD%A9%E9%A6%96%E5%94%B1%23&t=31&band_rank=47&Refer=top) 9058
-1. [关晓彤话剧舞台饰演秦怡](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E8%AF%9D%E5%89%A7%E8%88%9E%E5%8F%B0%E9%A5%B0%E6%BC%94%E7%A7%A6%E6%80%A1%23&t=31&band_rank=47&Refer=top) 8802
 1. [北京昨增5例境外输入确诊和9例无症状](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%98%A8%E5%A2%9E5%E4%BE%8B%E5%A2%83%E5%A4%96%E8%BE%93%E5%85%A5%E7%A1%AE%E8%AF%8A%E5%92%8C9%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B6%23&t=31&band_rank=49&Refer=top) 8774
 1. [最炫民族风唱响女排世锦赛](https://s.weibo.com/weibo?q=%23%E6%9C%80%E7%82%AB%E6%B0%91%E6%97%8F%E9%A3%8E%E5%94%B1%E5%93%8D%E5%A5%B3%E6%8E%92%E4%B8%96%E9%94%A6%E8%B5%9B%23&t=31&band_rank=50&Refer=top) 8768
 1. [渤海海峡黄海北部执行军事任务](https://s.weibo.com/weibo?q=%23%E6%B8%A4%E6%B5%B7%E6%B5%B7%E5%B3%A1%E9%BB%84%E6%B5%B7%E5%8C%97%E9%83%A8%E6%89%A7%E8%A1%8C%E5%86%9B%E4%BA%8B%E4%BB%BB%E5%8A%A1%23&t=31&band_rank=49&Refer=top) 6018
