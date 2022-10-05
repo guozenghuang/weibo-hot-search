@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-10-06 02:40:36
+最后更新时间 2022-10-06 03:31:52
 
 1. [量子纠缠](https://s.weibo.com/weibo?q=%23%E9%87%8F%E5%AD%90%E7%BA%A0%E7%BC%A0%23&t=31&band_rank=1&Refer=top) 684693
 1. [强烈的不舍是分别的预兆吗](https://s.weibo.com/weibo?q=%23%E5%BC%BA%E7%83%88%E7%9A%84%E4%B8%8D%E8%88%8D%E6%98%AF%E5%88%86%E5%88%AB%E7%9A%84%E9%A2%84%E5%85%86%E5%90%97%23&t=31&band_rank=2&Refer=top) 551304
@@ -62,19 +62,21 @@
 1. [广东降温是有的但不多](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E9%99%8D%E6%B8%A9%E6%98%AF%E6%9C%89%E7%9A%84%E4%BD%86%E4%B8%8D%E5%A4%9A%23&t=31&band_rank=41&Refer=top) 48726
 1. [93岁专家谢绝鉴宝不愿挣这个钱](https://s.weibo.com/weibo?q=%2393%E5%B2%81%E4%B8%93%E5%AE%B6%E8%B0%A2%E7%BB%9D%E9%89%B4%E5%AE%9D%E4%B8%8D%E6%84%BF%E6%8C%A3%E8%BF%99%E4%B8%AA%E9%92%B1%23&t=31&band_rank=42&Refer=top) 48171
 1. [地下1200米的超级充电宝长啥样](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E4%B8%8B1200%E7%B1%B3%E7%9A%84%E8%B6%85%E7%BA%A7%E5%85%85%E7%94%B5%E5%AE%9D%E9%95%BF%E5%95%A5%E6%A0%B7%23&t=31&band_rank=43&Refer=top) 47225
+1. [美国国债总额首次突破31万亿美元](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%80%BA%E6%80%BB%E9%A2%9D%E9%A6%96%E6%AC%A1%E7%AA%81%E7%A0%B431%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%23&t=31&band_rank=9&Refer=top) 43238
 1. [余景天新舞台预告](https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%99%AF%E5%A4%A9%E6%96%B0%E8%88%9E%E5%8F%B0%E9%A2%84%E5%91%8A%23&t=31&band_rank=44&Refer=top) 43033
 1. [岳父含泪叮嘱新郎不能欺负女儿](https://s.weibo.com/weibo?q=%23%E5%B2%B3%E7%88%B6%E5%90%AB%E6%B3%AA%E5%8F%AE%E5%98%B1%E6%96%B0%E9%83%8E%E4%B8%8D%E8%83%BD%E6%AC%BA%E8%B4%9F%E5%A5%B3%E5%84%BF%23&t=31&band_rank=45&Refer=top) 42863
 1. [男子钓鱼救下被裹塑料袋扔河的猫](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%92%93%E9%B1%BC%E6%95%91%E4%B8%8B%E8%A2%AB%E8%A3%B9%E5%A1%91%E6%96%99%E8%A2%8B%E6%89%94%E6%B2%B3%E7%9A%84%E7%8C%AB%23&t=31&band_rank=46&Refer=top) 42814
+1. [景区回应游客被梅花鹿踢脸](https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E6%B8%B8%E5%AE%A2%E8%A2%AB%E6%A2%85%E8%8A%B1%E9%B9%BF%E8%B8%A2%E8%84%B8%23&t=31&band_rank=26&Refer=top) 41350
 1. [脱口秀看嗨了会流泪](https://s.weibo.com/weibo?q=%23%E8%84%B1%E5%8F%A3%E7%A7%80%E7%9C%8B%E5%97%A8%E4%BA%86%E4%BC%9A%E6%B5%81%E6%B3%AA%23&t=31&band_rank=47&Refer=top) 39819
 1. [这是种很新的艺术](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E7%A7%8D%E5%BE%88%E6%96%B0%E7%9A%84%E8%89%BA%E6%9C%AF%23&t=31&band_rank=49&Refer=top) 39497
 1. [河南加入下雪群聊](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%8A%A0%E5%85%A5%E4%B8%8B%E9%9B%AA%E7%BE%A4%E8%81%8A%23&t=31&band_rank=48&Refer=top) 38967
 1. [张雨绮暗黑御姐造型](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E6%9A%97%E9%BB%91%E5%BE%A1%E5%A7%90%E9%80%A0%E5%9E%8B%23&t=31&band_rank=38&Refer=top) 36870
 1. [这就是属于秋天的浪漫吧](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E5%B1%9E%E4%BA%8E%E7%A7%8B%E5%A4%A9%E7%9A%84%E6%B5%AA%E6%BC%AB%E5%90%A7%23&t=31&band_rank=50&Refer=top) 33456
-1. [景区回应游客被梅花鹿踢脸](https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E6%B8%B8%E5%AE%A2%E8%A2%AB%E6%A2%85%E8%8A%B1%E9%B9%BF%E8%B8%A2%E8%84%B8%23&t=31&band_rank=26&Refer=top) 33077
 1. [被蔡文静演的叶芯暖到](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%94%A1%E6%96%87%E9%9D%99%E6%BC%94%E7%9A%84%E5%8F%B6%E8%8A%AF%E6%9A%96%E5%88%B0%23&t=31&band_rank=43&Refer=top) 31889
 1. [今晚继续为女排姑娘们加油](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%99%9A%E7%BB%A7%E7%BB%AD%E4%B8%BA%E5%A5%B3%E6%8E%92%E5%A7%91%E5%A8%98%E4%BB%AC%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=47&Refer=top) 23260
-1. [男子在爱心取水机前进货式取水](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9C%A8%E7%88%B1%E5%BF%83%E5%8F%96%E6%B0%B4%E6%9C%BA%E5%89%8D%E8%BF%9B%E8%B4%A7%E5%BC%8F%E5%8F%96%E6%B0%B4%23&t=31&band_rank=49&Refer=top) 12683
-1. [女子耗时4天做甄嬛传立体手账](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%80%97%E6%97%B64%E5%A4%A9%E5%81%9A%E7%94%84%E5%AC%9B%E4%BC%A0%E7%AB%8B%E4%BD%93%E6%89%8B%E8%B4%A6%23&t=31&band_rank=50&Refer=top) 12102
+1. [男子在爱心取水机前进货式取水](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9C%A8%E7%88%B1%E5%BF%83%E5%8F%96%E6%B0%B4%E6%9C%BA%E5%89%8D%E8%BF%9B%E8%B4%A7%E5%BC%8F%E5%8F%96%E6%B0%B4%23&t=31&band_rank=49&Refer=top) 17173
+1. [女子耗时4天做甄嬛传立体手账](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%80%97%E6%97%B64%E5%A4%A9%E5%81%9A%E7%94%84%E5%AC%9B%E4%BC%A0%E7%AB%8B%E4%BD%93%E6%89%8B%E8%B4%A6%23&t=31&band_rank=50&Refer=top) 12515
+1. [轮胎高速脱落滚了2公里司机没追上](https://s.weibo.com/weibo?q=%23%E8%BD%AE%E8%83%8E%E9%AB%98%E9%80%9F%E8%84%B1%E8%90%BD%E6%BB%9A%E4%BA%862%E5%85%AC%E9%87%8C%E5%8F%B8%E6%9C%BA%E6%B2%A1%E8%BF%BD%E4%B8%8A%23&t=31&band_rank=41&Refer=top) 11322
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
