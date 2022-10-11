@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-10-12 00:38:47
+最后更新时间 2022-10-12 01:34:04
 
 1. [多地政府大手笔回购商品房](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E6%94%BF%E5%BA%9C%E5%A4%A7%E6%89%8B%E7%AC%94%E5%9B%9E%E8%B4%AD%E5%95%86%E5%93%81%E6%88%BF%23&t=31&band_rank=1&Refer=top) 732780
 1. [中国女排vs意大利女排](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92vs%E6%84%8F%E5%A4%A7%E5%88%A9%E5%A5%B3%E6%8E%92%23&t=31&band_rank=2&Refer=top) 568374
@@ -45,6 +45,7 @@
 1. [流畅腿型的秘密找到了](https://s.weibo.com/weibo?q=%23%E6%B5%81%E7%95%85%E8%85%BF%E5%9E%8B%E7%9A%84%E7%A7%98%E5%AF%86%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=24&Refer=top) 121969
 1. [中国女排0比1落后意大利](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%920%E6%AF%941%E8%90%BD%E5%90%8E%E6%84%8F%E5%A4%A7%E5%88%A9%23&t=31&band_rank=25&Refer=top) 119130
 1. [女子用狗狗拉粑粑照给狗办证](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%A8%E7%8B%97%E7%8B%97%E6%8B%89%E7%B2%91%E7%B2%91%E7%85%A7%E7%BB%99%E7%8B%97%E5%8A%9E%E8%AF%81%23&t=31&band_rank=26&Refer=top) 117206
+1. [女排 拦网](https://s.weibo.com/weibo?q=%E5%A5%B3%E6%8E%92%20%E6%8B%A6%E7%BD%91&t=31&band_rank=12&Refer=top) 105644
 1. [李万一郭浩然约会](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%B8%87%E4%B8%80%E9%83%AD%E6%B5%A9%E7%84%B6%E7%BA%A6%E4%BC%9A%23&t=31&band_rank=27&Refer=top) 97068
 1. [我国仅30%产妇使用无痛分娩](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E4%BB%8530%25%E4%BA%A7%E5%A6%87%E4%BD%BF%E7%94%A8%E6%97%A0%E7%97%9B%E5%88%86%E5%A8%A9%23&t=31&band_rank=28&Refer=top) 94026
 1. [毕业后你和舍友还有联系吗](https://s.weibo.com/weibo?q=%23%E6%AF%95%E4%B8%9A%E5%90%8E%E4%BD%A0%E5%92%8C%E8%88%8D%E5%8F%8B%E8%BF%98%E6%9C%89%E8%81%94%E7%B3%BB%E5%90%97%23&t=31&band_rank=29&Refer=top) 93636
@@ -60,15 +61,19 @@
 1. [脱口秀大会](https://s.weibo.com/weibo?q=%E8%84%B1%E5%8F%A3%E7%A7%80%E5%A4%A7%E4%BC%9A&t=31&band_rank=39&Refer=top) 69150
 1. [养猫前后生活上发生的变化](https://s.weibo.com/weibo?q=%23%E5%85%BB%E7%8C%AB%E5%89%8D%E5%90%8E%E7%94%9F%E6%B4%BB%E4%B8%8A%E5%8F%91%E7%94%9F%E7%9A%84%E5%8F%98%E5%8C%96%23&t=31&band_rank=40&Refer=top) 68904
 1. [深秋口红买什么](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E7%A7%8B%E5%8F%A3%E7%BA%A2%E4%B9%B0%E4%BB%80%E4%B9%88%23&t=31&band_rank=41&Refer=top) 68887
+1. [谁让你们这么教中文的](https://s.weibo.com/weibo?q=%23%E8%B0%81%E8%AE%A9%E4%BD%A0%E4%BB%AC%E8%BF%99%E4%B9%88%E6%95%99%E4%B8%AD%E6%96%87%E7%9A%84%23&t=31&band_rank=20&Refer=top) 67233
 1. [成毅发长文告别底线](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E5%8F%91%E9%95%BF%E6%96%87%E5%91%8A%E5%88%AB%E5%BA%95%E7%BA%BF%23&t=31&band_rank=42&Refer=top) 65864
+1. [曲江通报小学学生坠亡事件](https://s.weibo.com/weibo?q=%E6%9B%B2%E6%B1%9F%E9%80%9A%E6%8A%A5%E5%B0%8F%E5%AD%A6%E5%AD%A6%E7%94%9F%E5%9D%A0%E4%BA%A1%E4%BA%8B%E4%BB%B6&t=31&band_rank=23&Refer=top) 65482
 1. [幼儿园老师用粉笔画出渐变色](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%80%81%E5%B8%88%E7%94%A8%E7%B2%89%E7%AC%94%E7%94%BB%E5%87%BA%E6%B8%90%E5%8F%98%E8%89%B2%23&t=31&band_rank=43&Refer=top) 63932
 1. [男子高空作业掉落悬空被公交接住](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%AB%98%E7%A9%BA%E4%BD%9C%E4%B8%9A%E6%8E%89%E8%90%BD%E6%82%AC%E7%A9%BA%E8%A2%AB%E5%85%AC%E4%BA%A4%E6%8E%A5%E4%BD%8F%23&t=31&band_rank=44&Refer=top) 57780
 1. [让狗愧疚一辈子](https://s.weibo.com/weibo?q=%23%E8%AE%A9%E7%8B%97%E6%84%A7%E7%96%9A%E4%B8%80%E8%BE%88%E5%AD%90%23&t=31&band_rank=45&Refer=top) 57693
+1. [地理老师都气笑了](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E7%90%86%E8%80%81%E5%B8%88%E9%83%BD%E6%B0%94%E7%AC%91%E4%BA%86%23&t=31&band_rank=48&Refer=top) 56345
+1. [李龙馥143CASE直拍](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%BE%99%E9%A6%A5143CASE%E7%9B%B4%E6%8B%8D%23&t=31&band_rank=28&Refer=top) 55327
 1. [95后小伙吐槽水果刺客价格贵七倍](https://s.weibo.com/weibo?q=%2395%E5%90%8E%E5%B0%8F%E4%BC%99%E5%90%90%E6%A7%BD%E6%B0%B4%E6%9E%9C%E5%88%BA%E5%AE%A2%E4%BB%B7%E6%A0%BC%E8%B4%B5%E4%B8%83%E5%80%8D%23&t=31&band_rank=46&Refer=top) 53348
 1. [绘画会被AI替代吗](https://s.weibo.com/weibo?q=%23%E7%BB%98%E7%94%BB%E4%BC%9A%E8%A2%ABAI%E6%9B%BF%E4%BB%A3%E5%90%97%23&t=31&band_rank=47&Refer=top) 49907
-1. [地理老师都气笑了](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E7%90%86%E8%80%81%E5%B8%88%E9%83%BD%E6%B0%94%E7%AC%91%E4%BA%86%23&t=31&band_rank=48&Refer=top) 48739
 1. [谁能不心动一个人的快乐](https://s.weibo.com/weibo?q=%23%E8%B0%81%E8%83%BD%E4%B8%8D%E5%BF%83%E5%8A%A8%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%BF%AB%E4%B9%90%23&t=31&band_rank=49&Refer=top) 45687
 1. [徐璐被绑架戏份感染力好强](https://s.weibo.com/weibo?q=%23%E5%BE%90%E7%92%90%E8%A2%AB%E7%BB%91%E6%9E%B6%E6%88%8F%E4%BB%BD%E6%84%9F%E6%9F%93%E5%8A%9B%E5%A5%BD%E5%BC%BA%23&t=31&band_rank=50&Refer=top) 44483
+1. [两个人的小森林](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%B0%8F%E6%A3%AE%E6%9E%97%23&t=31&band_rank=44&Refer=top) 35027
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
