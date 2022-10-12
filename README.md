@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-10-13 04:29:25
+最后更新时间 2022-10-13 05:24:20
 
 1. [三天肩膀就练薄了](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%A4%A9%E8%82%A9%E8%86%80%E5%B0%B1%E7%BB%83%E8%96%84%E4%BA%86%23&t=31&band_rank=1&Refer=top) 299736
 1. [月子中心在鸡汤里加党参被罚](https://s.weibo.com/weibo?q=%23%E6%9C%88%E5%AD%90%E4%B8%AD%E5%BF%83%E5%9C%A8%E9%B8%A1%E6%B1%A4%E9%87%8C%E5%8A%A0%E5%85%9A%E5%8F%82%E8%A2%AB%E7%BD%9A%23&t=31&band_rank=2&Refer=top) 224296
@@ -58,26 +58,29 @@
 1. [医生悄悄垫付手术费12年后患者归还](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E6%82%84%E6%82%84%E5%9E%AB%E4%BB%98%E6%89%8B%E6%9C%AF%E8%B4%B912%E5%B9%B4%E5%90%8E%E6%82%A3%E8%80%85%E5%BD%92%E8%BF%98%23&t=31&band_rank=36&Refer=top) 29826
 1. [95岁老人分别60年后重逢登记结婚](https://s.weibo.com/weibo?q=%2395%E5%B2%81%E8%80%81%E4%BA%BA%E5%88%86%E5%88%AB60%E5%B9%B4%E5%90%8E%E9%87%8D%E9%80%A2%E7%99%BB%E8%AE%B0%E7%BB%93%E5%A9%9A%23&t=31&band_rank=37&Refer=top) 28426
 1. [你最近一次大哭是为什么](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%9C%80%E8%BF%91%E4%B8%80%E6%AC%A1%E5%A4%A7%E5%93%AD%E6%98%AF%E4%B8%BA%E4%BB%80%E4%B9%88%23&t=31&band_rank=38&Refer=top) 27028
+1. [父亲10年为女儿QQ点赞3.7万次](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B210%E5%B9%B4%E4%B8%BA%E5%A5%B3%E5%84%BFQQ%E7%82%B9%E8%B5%9E3.7%E4%B8%87%E6%AC%A1%23&t=31&band_rank=48&Refer=top) 26951
 1. [12岁小学生身高1.9米被体育局相中](https://s.weibo.com/weibo?q=%2312%E5%B2%81%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%BA%AB%E9%AB%981.9%E7%B1%B3%E8%A2%AB%E4%BD%93%E8%82%B2%E5%B1%80%E7%9B%B8%E4%B8%AD%23&t=31&band_rank=39&Refer=top) 26634
 1. [王鹤棣霸总适配度](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E9%9C%B8%E6%80%BB%E9%80%82%E9%85%8D%E5%BA%A6%23&t=31&band_rank=40&Refer=top) 24762
 1. [原来学会做饭这么简单](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%AD%A6%E4%BC%9A%E5%81%9A%E9%A5%AD%E8%BF%99%E4%B9%88%E7%AE%80%E5%8D%95%23&t=31&band_rank=41&Refer=top) 23405
 1. [一张画证明人不会被AI取代](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BC%A0%E7%94%BB%E8%AF%81%E6%98%8E%E4%BA%BA%E4%B8%8D%E4%BC%9A%E8%A2%ABAI%E5%8F%96%E4%BB%A3%23&t=31&band_rank=42&Refer=top) 23231
 1. [二十大召开时间](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E5%8F%AC%E5%BC%80%E6%97%B6%E9%97%B4%23&t=31&band_rank=43&Refer=top) 23157
 1. [毛豆好笑](https://s.weibo.com/weibo?q=%23%E6%AF%9B%E8%B1%86%E5%A5%BD%E7%AC%91%23&t=31&band_rank=44&Refer=top) 23096
-1. [父亲10年为女儿QQ点赞3.7万次](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B210%E5%B9%B4%E4%B8%BA%E5%A5%B3%E5%84%BFQQ%E7%82%B9%E8%B5%9E3.7%E4%B8%87%E6%AC%A1%23&t=31&band_rank=48&Refer=top) 22120
+1. [13岁哥哥教6岁弟弟拼音被气哭](https://s.weibo.com/weibo?q=%2313%E5%B2%81%E5%93%A5%E5%93%A5%E6%95%996%E5%B2%81%E5%BC%9F%E5%BC%9F%E6%8B%BC%E9%9F%B3%E8%A2%AB%E6%B0%94%E5%93%AD%23&t=31&band_rank=29&Refer=top) 20952
 1. [刚毕业时花的冤枉钱](https://s.weibo.com/weibo?q=%23%E5%88%9A%E6%AF%95%E4%B8%9A%E6%97%B6%E8%8A%B1%E7%9A%84%E5%86%A4%E6%9E%89%E9%92%B1%23&t=31&band_rank=45&Refer=top) 20026
 1. [新娘端庄大方被赞国泰民安脸](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%A8%98%E7%AB%AF%E5%BA%84%E5%A4%A7%E6%96%B9%E8%A2%AB%E8%B5%9E%E5%9B%BD%E6%B3%B0%E6%B0%91%E5%AE%89%E8%84%B8%23&t=31&band_rank=46&Refer=top) 19435
 1. [李斌称蔚来2030年要跻身世界前五](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%96%8C%E7%A7%B0%E8%94%9A%E6%9D%A52030%E5%B9%B4%E8%A6%81%E8%B7%BB%E8%BA%AB%E4%B8%96%E7%95%8C%E5%89%8D%E4%BA%94%23&t=31&band_rank=47&Refer=top) 18361
+1. [男子戴网购耳机起火如同放烟花](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%88%B4%E7%BD%91%E8%B4%AD%E8%80%B3%E6%9C%BA%E8%B5%B7%E7%81%AB%E5%A6%82%E5%90%8C%E6%94%BE%E7%83%9F%E8%8A%B1%23&t=31&band_rank=47&Refer=top) 17664
 1. [哥哥辅导妹妹作业双双崩溃到哭](https://s.weibo.com/weibo?q=%23%E5%93%A5%E5%93%A5%E8%BE%85%E5%AF%BC%E5%A6%B9%E5%A6%B9%E4%BD%9C%E4%B8%9A%E5%8F%8C%E5%8F%8C%E5%B4%A9%E6%BA%83%E5%88%B0%E5%93%AD%23&t=31&band_rank=48&Refer=top) 17446
 1. [中国U17女足世界杯开门红](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BDU17%E5%A5%B3%E8%B6%B3%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E9%97%A8%E7%BA%A2%23&t=31&band_rank=49&Refer=top) 17351
 1. [北京首批毕业生公寓全装修新房月租2000元起](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E9%A6%96%E6%89%B9%E6%AF%95%E4%B8%9A%E7%94%9F%E5%85%AC%E5%AF%93%E5%85%A8%E8%A3%85%E4%BF%AE%E6%96%B0%E6%88%BF%E6%9C%88%E7%A7%9F2000%E5%85%83%E8%B5%B7%23&t=31&band_rank=21&Refer=top) 17110
 1. [男子胸口的蓝牙耳机突然喷火](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%83%B8%E5%8F%A3%E7%9A%84%E8%93%9D%E7%89%99%E8%80%B3%E6%9C%BA%E7%AA%81%E7%84%B6%E5%96%B7%E7%81%AB%23&t=31&band_rank=22&Refer=top) 17086
+1. [我国将建立世界最大国家公园体系](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%B0%86%E5%BB%BA%E7%AB%8B%E4%B8%96%E7%95%8C%E6%9C%80%E5%A4%A7%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD%E4%BD%93%E7%B3%BB%23&t=31&band_rank=20&Refer=top) 16183
 1. [六公主评陈哲远沈月我的反派男友](https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%E8%AF%84%E9%99%88%E5%93%B2%E8%BF%9C%E6%B2%88%E6%9C%88%E6%88%91%E7%9A%84%E5%8F%8D%E6%B4%BE%E7%94%B7%E5%8F%8B%23&t=31&band_rank=50&Refer=top) 15711
-1. [男子戴网购耳机起火如同放烟花](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%88%B4%E7%BD%91%E8%B4%AD%E8%80%B3%E6%9C%BA%E8%B5%B7%E7%81%AB%E5%A6%82%E5%90%8C%E6%94%BE%E7%83%9F%E8%8A%B1%23&t=31&band_rank=47&Refer=top) 14681
-1. [13岁哥哥教6岁弟弟拼音被气哭](https://s.weibo.com/weibo?q=%2313%E5%B2%81%E5%93%A5%E5%93%A5%E6%95%996%E5%B2%81%E5%BC%9F%E5%BC%9F%E6%8B%BC%E9%9F%B3%E8%A2%AB%E6%B0%94%E5%93%AD%23&t=31&band_rank=29&Refer=top) 13756
-1. [李彩演今天solo出道](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%BD%A9%E6%BC%94%E4%BB%8A%E5%A4%A9solo%E5%87%BA%E9%81%93%23&t=31&band_rank=47&Refer=top) 7642
+1. [TI11名单确认](https://s.weibo.com/weibo?q=%23TI11%E5%90%8D%E5%8D%95%E7%A1%AE%E8%AE%A4%23&t=31&band_rank=38&Refer=top) 10201
+1. [战损美学天花板](https://s.weibo.com/weibo?q=%23%E6%88%98%E6%8D%9F%E7%BE%8E%E5%AD%A6%E5%A4%A9%E8%8A%B1%E6%9D%BF%23&t=31&band_rank=39&Refer=top) 10170
+1. [醉酒驾驶非机动车也属违法行为](https://s.weibo.com/weibo?q=%23%E9%86%89%E9%85%92%E9%A9%BE%E9%A9%B6%E9%9D%9E%E6%9C%BA%E5%8A%A8%E8%BD%A6%E4%B9%9F%E5%B1%9E%E8%BF%9D%E6%B3%95%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=49&Refer=top) 10093
+1. [李彩演今天solo出道](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%BD%A9%E6%BC%94%E4%BB%8A%E5%A4%A9solo%E5%87%BA%E9%81%93%23&t=31&band_rank=47&Refer=top) 8940
 1. [漫画照进现实的心动](https://s.weibo.com/weibo?q=%23%E6%BC%AB%E7%94%BB%E7%85%A7%E8%BF%9B%E7%8E%B0%E5%AE%9E%E7%9A%84%E5%BF%83%E5%8A%A8%23&t=31&band_rank=50&Refer=top) 7622
-1. [醉酒驾驶非机动车也属违法行为](https://s.weibo.com/weibo?q=%23%E9%86%89%E9%85%92%E9%A9%BE%E9%A9%B6%E9%9D%9E%E6%9C%BA%E5%8A%A8%E8%BD%A6%E4%B9%9F%E5%B1%9E%E8%BF%9D%E6%B3%95%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=49&Refer=top) 7364
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
