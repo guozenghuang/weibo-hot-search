@@ -17,14 +17,14 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-10-15 00:38:15
+最后更新时间 2022-10-15 01:34:41
 
 1. [梵高名画向日葵被泼番茄罐头](https://s.weibo.com/weibo?q=%23%E6%A2%B5%E9%AB%98%E5%90%8D%E7%94%BB%E5%90%91%E6%97%A5%E8%91%B5%E8%A2%AB%E6%B3%BC%E7%95%AA%E8%8C%84%E7%BD%90%E5%A4%B4%23&t=31&band_rank=1&Refer=top) 1336482
 1. [男子心跳停1小时医生持续抢救成功](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BF%83%E8%B7%B3%E5%81%9C1%E5%B0%8F%E6%97%B6%E5%8C%BB%E7%94%9F%E6%8C%81%E7%BB%AD%E6%8A%A2%E6%95%91%E6%88%90%E5%8A%9F%23&t=31&band_rank=2&Refer=top) 589389
+1. [进化论](https://s.weibo.com/weibo?q=%23%E8%BF%9B%E5%8C%96%E8%AE%BA%23&t=31&band_rank=6&Refer=top) 557522
 1. [百秒说非凡十年](https://s.weibo.com/weibo?q=%23%E7%99%BE%E7%A7%92%E8%AF%B4%E9%9D%9E%E5%87%A1%E5%8D%81%E5%B9%B4%23&t=31&band_rank=3&Refer=top) 556257
 1. [詹雯婷从我们的爱到诀爱](https://s.weibo.com/weibo?q=%23%E8%A9%B9%E9%9B%AF%E5%A9%B7%E4%BB%8E%E6%88%91%E4%BB%AC%E7%9A%84%E7%88%B1%E5%88%B0%E8%AF%80%E7%88%B1%23&t=31&band_rank=4&Refer=top) 546688
 1. [你心目中的追光者是谁](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%BF%83%E7%9B%AE%E4%B8%AD%E7%9A%84%E8%BF%BD%E5%85%89%E8%80%85%E6%98%AF%E8%B0%81%23&t=31&band_rank=5&Refer=top) 528794
-1. [进化论](https://s.weibo.com/weibo?q=%23%E8%BF%9B%E5%8C%96%E8%AE%BA%23&t=31&band_rank=6&Refer=top) 513385
 1. [一直不谈恋爱会等到很好的人吗](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%9B%B4%E4%B8%8D%E8%B0%88%E6%81%8B%E7%88%B1%E4%BC%9A%E7%AD%89%E5%88%B0%E5%BE%88%E5%A5%BD%E7%9A%84%E4%BA%BA%E5%90%97%23&t=31&band_rank=7&Refer=top) 489678
 1. [一到冬天就会得这种病](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%88%B0%E5%86%AC%E5%A4%A9%E5%B0%B1%E4%BC%9A%E5%BE%97%E8%BF%99%E7%A7%8D%E7%97%85%23&t=31&band_rank=8&Refer=top) 451637
 1. [英国首相特拉斯解雇财政大臣](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E7%89%B9%E6%8B%89%E6%96%AF%E8%A7%A3%E9%9B%87%E8%B4%A2%E6%94%BF%E5%A4%A7%E8%87%A3%23&t=31&band_rank=9&Refer=top) 448984
@@ -34,6 +34,7 @@
 1. [真正的美貌从来不存在艳压](https://s.weibo.com/weibo?q=%23%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%BE%8E%E8%B2%8C%E4%BB%8E%E6%9D%A5%E4%B8%8D%E5%AD%98%E5%9C%A8%E8%89%B3%E5%8E%8B%23&t=31&band_rank=13&Refer=top) 319454
 1. [美国俩父亲争吵开枪互射对方女儿](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BF%A9%E7%88%B6%E4%BA%B2%E4%BA%89%E5%90%B5%E5%BC%80%E6%9E%AA%E4%BA%92%E5%B0%84%E5%AF%B9%E6%96%B9%E5%A5%B3%E5%84%BF%23&t=31&band_rank=14&Refer=top) 278574
 1. [没有学习的人不伤心演我嘴硬](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%9C%89%E5%AD%A6%E4%B9%A0%E7%9A%84%E4%BA%BA%E4%B8%8D%E4%BC%A4%E5%BF%83%E6%BC%94%E6%88%91%E5%98%B4%E7%A1%AC%23&t=31&band_rank=15&Refer=top) 266564
+1. [哈利波特海格扮演者去世](https://s.weibo.com/weibo?q=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E6%B5%B7%E6%A0%BC%E6%89%AE%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96&t=31&band_rank=4&Refer=top) 257781
 1. [日本男子出租自己4年赚近200万](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E5%87%BA%E7%A7%9F%E8%87%AA%E5%B7%B14%E5%B9%B4%E8%B5%9A%E8%BF%91200%E4%B8%87%23&t=31&band_rank=16&Refer=top) 254133
 1. [浙大女孩14年从电表工成长为劳模](https://s.weibo.com/weibo?q=%23%E6%B5%99%E5%A4%A7%E5%A5%B3%E5%AD%A914%E5%B9%B4%E4%BB%8E%E7%94%B5%E8%A1%A8%E5%B7%A5%E6%88%90%E9%95%BF%E4%B8%BA%E5%8A%B3%E6%A8%A1%23&t=31&band_rank=17&Refer=top) 242134
 1. [东北一串店禁玩手机每人低消10串](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E4%B8%80%E4%B8%B2%E5%BA%97%E7%A6%81%E7%8E%A9%E6%89%8B%E6%9C%BA%E6%AF%8F%E4%BA%BA%E4%BD%8E%E6%B6%8810%E4%B8%B2%23&t=31&band_rank=18&Refer=top) 202255
@@ -62,9 +63,11 @@
 1. [彭莱患肿瘤](https://s.weibo.com/weibo?q=%23%E5%BD%AD%E8%8E%B1%E6%82%A3%E8%82%BF%E7%98%A4%23&t=31&band_rank=41&Refer=top) 75824
 1. [二手iPhone14贬值速度是13两倍](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E6%89%8BiPhone14%E8%B4%AC%E5%80%BC%E9%80%9F%E5%BA%A6%E6%98%AF13%E4%B8%A4%E5%80%8D%23&t=31&band_rank=42&Refer=top) 72947
 1. [连续上七天班的精神状态](https://s.weibo.com/weibo?q=%23%E8%BF%9E%E7%BB%AD%E4%B8%8A%E4%B8%83%E5%A4%A9%E7%8F%AD%E7%9A%84%E7%B2%BE%E7%A5%9E%E7%8A%B6%E6%80%81%23&t=31&band_rank=43&Refer=top) 70483
+1. [kcon](https://s.weibo.com/weibo?q=kcon&t=31&band_rank=21&Refer=top) 68734
 1. [如果孩子问你为什么要读书](https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E5%AD%A9%E5%AD%90%E9%97%AE%E4%BD%A0%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%AF%BB%E4%B9%A6%23&t=31&band_rank=44&Refer=top) 66382
 1. [俄媒称俄博主冒充美官员与乌外长连线](https://s.weibo.com/weibo?q=%23%E4%BF%84%E5%AA%92%E7%A7%B0%E4%BF%84%E5%8D%9A%E4%B8%BB%E5%86%92%E5%85%85%E7%BE%8E%E5%AE%98%E5%91%98%E4%B8%8E%E4%B9%8C%E5%A4%96%E9%95%BF%E8%BF%9E%E7%BA%BF%23&t=31&band_rank=45&Refer=top) 57256
 1. [冷空气又双叒要来了](https://s.weibo.com/weibo?q=%23%E5%86%B7%E7%A9%BA%E6%B0%94%E5%8F%88%E5%8F%8C%E5%8F%92%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=46&Refer=top) 55123
+1. [日剧silent](https://s.weibo.com/weibo?q=%E6%97%A5%E5%89%A7silent&t=31&band_rank=32&Refer=top) 50135
 1. [TTG](https://s.weibo.com/weibo?q=TTG&t=31&band_rank=47&Refer=top) 50094
 1. [遗忘15年股票找回后1万变50万](https://s.weibo.com/weibo?q=%23%E9%81%97%E5%BF%9815%E5%B9%B4%E8%82%A1%E7%A5%A8%E6%89%BE%E5%9B%9E%E5%90%8E1%E4%B8%87%E5%8F%9850%E4%B8%87%23&t=31&band_rank=48&Refer=top) 48007
 1. [婴幼儿渐冻症救命药入医保70万降至3.3万](https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%B9%BC%E5%84%BF%E6%B8%90%E5%86%BB%E7%97%87%E6%95%91%E5%91%BD%E8%8D%AF%E5%85%A5%E5%8C%BB%E4%BF%9D70%E4%B8%87%E9%99%8D%E8%87%B33.3%E4%B8%87%23&t=31&band_rank=49&Refer=top) 46658
