@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-10-16 00:35:23
+最后更新时间 2022-10-16 03:21:18
 
 1. [新一届中央政治局常委将同中外记者见面](https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B8%80%E5%B1%8A%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%B8%B8%E5%A7%94%E5%B0%86%E5%90%8C%E4%B8%AD%E5%A4%96%E8%AE%B0%E8%80%85%E8%A7%81%E9%9D%A2%23&t=31&band_rank=1&Refer=top) 371172
 1. [二十大发言人回应疫情防控](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E5%8F%91%E8%A8%80%E4%BA%BA%E5%9B%9E%E5%BA%94%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23&t=31&band_rank=2&Refer=top) 369873
@@ -63,12 +63,19 @@
 1. [哄睡师包月套餐标价1.8万](https://s.weibo.com/weibo?q=%23%E5%93%84%E7%9D%A1%E5%B8%88%E5%8C%85%E6%9C%88%E5%A5%97%E9%A4%90%E6%A0%87%E4%BB%B71.8%E4%B8%87%23&t=31&band_rank=42&Refer=top) 48102
 1. [姚晨晒照告别摇滚狂花](https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%99%A8%E6%99%92%E7%85%A7%E5%91%8A%E5%88%AB%E6%91%87%E6%BB%9A%E7%8B%82%E8%8A%B1%23&t=31&band_rank=43&Refer=top) 46355
 1. [光与夜之恋](https://s.weibo.com/weibo?q=%23%E5%85%89%E4%B8%8E%E5%A4%9C%E4%B9%8B%E6%81%8B%23&t=31&band_rank=44&Refer=top) 43508
+1. [爸爸连夜为儿子做课文中的竹节人](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E8%BF%9E%E5%A4%9C%E4%B8%BA%E5%84%BF%E5%AD%90%E5%81%9A%E8%AF%BE%E6%96%87%E4%B8%AD%E7%9A%84%E7%AB%B9%E8%8A%82%E4%BA%BA%23&t=31&band_rank=5&Refer=top) 41404
 1. [将盆栽越坐越歪的猫咪](https://s.weibo.com/weibo?q=%23%E5%B0%86%E7%9B%86%E6%A0%BD%E8%B6%8A%E5%9D%90%E8%B6%8A%E6%AD%AA%E7%9A%84%E7%8C%AB%E5%92%AA%23&t=31&band_rank=45&Refer=top) 37042
 1. [中国U17女足0比2哥伦比亚U17](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BDU17%E5%A5%B3%E8%B6%B30%E6%AF%942%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9AU17%23&t=31&band_rank=46&Refer=top) 36436
 1. [顾全32分](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%85%A832%E5%88%86%23&t=31&band_rank=47&Refer=top) 35037
 1. [广东男篮vs深圳男篮](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E7%94%B7%E7%AF%AEvs%E6%B7%B1%E5%9C%B3%E7%94%B7%E7%AF%AE%23&t=31&band_rank=48&Refer=top) 32109
 1. [68岁重庆嬢嬢把钩钩针做成了非遗](https://s.weibo.com/weibo?q=%2368%E5%B2%81%E9%87%8D%E5%BA%86%E5%AC%A2%E5%AC%A2%E6%8A%8A%E9%92%A9%E9%92%A9%E9%92%88%E5%81%9A%E6%88%90%E4%BA%86%E9%9D%9E%E9%81%97%23&t=31&band_rank=49&Refer=top) 30271
 1. [党的二十大举行预备会议](https://s.weibo.com/weibo?q=%23%E5%85%9A%E7%9A%84%E4%BA%8C%E5%8D%81%E5%A4%A7%E4%B8%BE%E8%A1%8C%E9%A2%84%E5%A4%87%E4%BC%9A%E8%AE%AE%23&t=31&band_rank=50&Refer=top) 29115
+1. [大众宣布168亿在华投资项目](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%BC%97%E5%AE%A3%E5%B8%83168%E4%BA%BF%E5%9C%A8%E5%8D%8E%E6%8A%95%E8%B5%84%E9%A1%B9%E7%9B%AE%23&t=31&band_rank=11&Refer=top) 27360
+1. [交警30分钟送断指孩子就医](https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A630%E5%88%86%E9%92%9F%E9%80%81%E6%96%AD%E6%8C%87%E5%AD%A9%E5%AD%90%E5%B0%B1%E5%8C%BB%23&t=31&band_rank=31&Refer=top) 15707
+1. [美国再提供7.25亿美元对乌军事援助](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%86%8D%E6%8F%90%E4%BE%9B7.25%E4%BA%BF%E7%BE%8E%E5%85%83%E5%AF%B9%E4%B9%8C%E5%86%9B%E4%BA%8B%E6%8F%B4%E5%8A%A9%23&t=31&band_rank=42&Refer=top) 9877
+1. [别再辜负你的细胞了](https://s.weibo.com/weibo?q=%23%E5%88%AB%E5%86%8D%E8%BE%9C%E8%B4%9F%E4%BD%A0%E7%9A%84%E7%BB%86%E8%83%9E%E4%BA%86%23&t=31&band_rank=46&Refer=top) 6363
+1. [7岁男孩梦想当警察蜀黍送笔鼓励](https://s.weibo.com/weibo?q=%237%E5%B2%81%E7%94%B7%E5%AD%A9%E6%A2%A6%E6%83%B3%E5%BD%93%E8%AD%A6%E5%AF%9F%E8%9C%80%E9%BB%8D%E9%80%81%E7%AC%94%E9%BC%93%E5%8A%B1%23&t=31&band_rank=48&Refer=top) 6186
+1. [村民过上了新农人的日子](https://s.weibo.com/weibo?q=%23%E6%9D%91%E6%B0%91%E8%BF%87%E4%B8%8A%E4%BA%86%E6%96%B0%E5%86%9C%E4%BA%BA%E7%9A%84%E6%97%A5%E5%AD%90%23&t=31&band_rank=50&Refer=top) 6084
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
