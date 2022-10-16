@@ -17,15 +17,16 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-10-16 16:31:57
+最后更新时间 2022-10-16 17:26:50
 
 1. [解决台湾问题是中国人自己的事](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E5%86%B3%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BA%8B%23&t=31&band_rank=1&Refer=top) 2197571
 1. [二十大报告](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E6%8A%A5%E5%91%8A%23&t=31&band_rank=2&Refer=top) 1798970
 1. [二十大时光](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E6%97%B6%E5%85%89%23&t=31&band_rank=3&Refer=top) 1141837
-1. [二十大报告金句](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E6%8A%A5%E5%91%8A%E9%87%91%E5%8F%A5%23&t=31&band_rank=11&Refer=top) 926588
+1. [二十大报告金句](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E6%8A%A5%E5%91%8A%E9%87%91%E5%8F%A5%23&t=31&band_rank=11&Refer=top) 1009181
 1. [中国永远不称霸永远不搞扩张](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B0%B8%E8%BF%9C%E4%B8%8D%E7%A7%B0%E9%9C%B8%E6%B0%B8%E8%BF%9C%E4%B8%8D%E6%90%9E%E6%89%A9%E5%BC%A0%23&t=31&band_rank=4&Refer=top) 923490
 1. [中国式现代化的含义](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E7%9A%84%E5%90%AB%E4%B9%89%23&t=31&band_rank=3&Refer=top) 915364
 1. [从现在起中国共产党的中心任务](https://s.weibo.com/weibo?q=%23%E4%BB%8E%E7%8E%B0%E5%9C%A8%E8%B5%B7%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E4%B8%AD%E5%BF%83%E4%BB%BB%E5%8A%A1%23&t=31&band_rank=5&Refer=top) 613907
+1. [守江山守的是人民的心](https://s.weibo.com/weibo?q=%23%E5%AE%88%E6%B1%9F%E5%B1%B1%E5%AE%88%E7%9A%84%E6%98%AF%E4%BA%BA%E6%B0%91%E7%9A%84%E5%BF%83%23&t=31&band_rank=49&Refer=top) 605448
 1. [新一届中央政治局常委将同中外记者见面](https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B8%80%E5%B1%8A%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%B8%B8%E5%A7%94%E5%B0%86%E5%90%8C%E4%B8%AD%E5%A4%96%E8%AE%B0%E8%80%85%E8%A7%81%E9%9D%A2%23&t=31&band_rank=1&Refer=top) 488042
 1. [二十大发言人回应疫情防控](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E5%8F%91%E8%A8%80%E4%BA%BA%E5%9B%9E%E5%BA%94%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23&t=31&band_rank=2&Refer=top) 484433
 1. [我们要全面加强练兵备战](https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E8%A6%81%E5%85%A8%E9%9D%A2%E5%8A%A0%E5%BC%BA%E7%BB%83%E5%85%B5%E5%A4%87%E6%88%98%23&t=31&band_rank=6&Refer=top) 439344
@@ -118,12 +119,14 @@
 1. [帮别人点外卖时先通知对方](https://s.weibo.com/weibo?q=%23%E5%B8%AE%E5%88%AB%E4%BA%BA%E7%82%B9%E5%A4%96%E5%8D%96%E6%97%B6%E5%85%88%E9%80%9A%E7%9F%A5%E5%AF%B9%E6%96%B9%23&t=31&band_rank=41&Refer=top) 51040
 1. [中国式现代化的本质要求](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E7%9A%84%E6%9C%AC%E8%B4%A8%E8%A6%81%E6%B1%82%23&t=31&band_rank=48&Refer=top) 50326
 1. [南疆军区无人机空中侦察首次实飞](https://s.weibo.com/weibo?q=%23%E5%8D%97%E7%96%86%E5%86%9B%E5%8C%BA%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%A9%BA%E4%B8%AD%E4%BE%A6%E5%AF%9F%E9%A6%96%E6%AC%A1%E5%AE%9E%E9%A3%9E%23&t=31&band_rank=43&Refer=top) 48777
-1. [守江山守的是人民的心](https://s.weibo.com/weibo?q=%23%E5%AE%88%E6%B1%9F%E5%B1%B1%E5%AE%88%E7%9A%84%E6%98%AF%E4%BA%BA%E6%B0%91%E7%9A%84%E5%BF%83%23&t=31&band_rank=49&Refer=top) 48441
+1. [看手机时下巴微收可减少颈椎压力](https://s.weibo.com/weibo?q=%23%E7%9C%8B%E6%89%8B%E6%9C%BA%E6%97%B6%E4%B8%8B%E5%B7%B4%E5%BE%AE%E6%94%B6%E5%8F%AF%E5%87%8F%E5%B0%91%E9%A2%88%E6%A4%8E%E5%8E%8B%E5%8A%9B%23&t=31&band_rank=19&Refer=top) 48580
+1. [师太摸脸蹭头安抚咬她手的独臂猴](https://s.weibo.com/weibo?q=%23%E5%B8%88%E5%A4%AA%E6%91%B8%E8%84%B8%E8%B9%AD%E5%A4%B4%E5%AE%89%E6%8A%9A%E5%92%AC%E5%A5%B9%E6%89%8B%E7%9A%84%E7%8B%AC%E8%87%82%E7%8C%B4%23&t=31&band_rank=29&Refer=top) 48267
 1. [加强家庭家教家风建设](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E5%BC%BA%E5%AE%B6%E5%BA%AD%E5%AE%B6%E6%95%99%E5%AE%B6%E9%A3%8E%E5%BB%BA%E8%AE%BE%23&t=31&band_rank=50&Refer=top) 48266
+1. [小学生撞车留纸条道歉司机免赔偿](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%92%9E%E8%BD%A6%E7%95%99%E7%BA%B8%E6%9D%A1%E9%81%93%E6%AD%89%E5%8F%B8%E6%9C%BA%E5%85%8D%E8%B5%94%E5%81%BF%23&t=31&band_rank=48&Refer=top) 48247
 1. [哄睡师包月套餐标价1.8万](https://s.weibo.com/weibo?q=%23%E5%93%84%E7%9D%A1%E5%B8%88%E5%8C%85%E6%9C%88%E5%A5%97%E9%A4%90%E6%A0%87%E4%BB%B71.8%E4%B8%87%23&t=31&band_rank=42&Refer=top) 48102
 1. [姚晨晒照告别摇滚狂花](https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%99%A8%E6%99%92%E7%85%A7%E5%91%8A%E5%88%AB%E6%91%87%E6%BB%9A%E7%8B%82%E8%8A%B1%23&t=31&band_rank=43&Refer=top) 46355
-1. [小学生撞车留纸条道歉司机免赔偿](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%92%9E%E8%BD%A6%E7%95%99%E7%BA%B8%E6%9D%A1%E9%81%93%E6%AD%89%E5%8F%B8%E6%9C%BA%E5%85%8D%E8%B5%94%E5%81%BF%23&t=31&band_rank=48&Refer=top) 45434
 1. [光与夜之恋](https://s.weibo.com/weibo?q=%23%E5%85%89%E4%B8%8E%E5%A4%9C%E4%B9%8B%E6%81%8B%23&t=31&band_rank=44&Refer=top) 43508
+1. [田间最赤诚的少年](https://s.weibo.com/weibo?q=%23%E7%94%B0%E9%97%B4%E6%9C%80%E8%B5%A4%E8%AF%9A%E7%9A%84%E5%B0%91%E5%B9%B4%23&t=31&band_rank=49&Refer=top) 39703
 1. [将盆栽越坐越歪的猫咪](https://s.weibo.com/weibo?q=%23%E5%B0%86%E7%9B%86%E6%A0%BD%E8%B6%8A%E5%9D%90%E8%B6%8A%E6%AD%AA%E7%9A%84%E7%8C%AB%E5%92%AA%23&t=31&band_rank=45&Refer=top) 39252
 1. [中国U17女足0比2哥伦比亚U17](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BDU17%E5%A5%B3%E8%B6%B30%E6%AF%942%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9AU17%23&t=31&band_rank=46&Refer=top) 36436
 1. [顾全32分](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%85%A832%E5%88%86%23&t=31&band_rank=47&Refer=top) 35037
