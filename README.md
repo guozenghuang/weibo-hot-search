@@ -17,16 +17,16 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-10-23 14:36:50
+最后更新时间 2022-10-23 15:27:54
 
 1. [新一届中央政治局常委同中外记者见面](https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B8%80%E5%B1%8A%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%B8%B8%E5%A7%94%E5%90%8C%E4%B8%AD%E5%A4%96%E8%AE%B0%E8%80%85%E8%A7%81%E9%9D%A2%23&t=31&band_rank=11&Refer=top) 2697151
 1. [中共二十届一中全会公报](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%85%B1%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%B8%80%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%85%AC%E6%8A%A5%23&t=31&band_rank=2&Refer=top) 928603
 1. [始终成为中国人民最可靠最坚强的主心骨](https://s.weibo.com/weibo?q=%23%E5%A7%8B%E7%BB%88%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E6%9C%80%E5%8F%AF%E9%9D%A0%E6%9C%80%E5%9D%9A%E5%BC%BA%E7%9A%84%E4%B8%BB%E5%BF%83%E9%AA%A8%23&t=31&band_rank=3&Refer=top) 415451
+1. [致9671.2万个你](https://s.weibo.com/weibo?q=%23%E8%87%B49671.2%E4%B8%87%E4%B8%AA%E4%BD%A0%23&t=31&band_rank=15&Refer=top) 396421
 1. [党的二十届一中全会](https://s.weibo.com/weibo?q=%23%E5%85%9A%E7%9A%84%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%B8%80%E4%B8%AD%E5%85%A8%E4%BC%9A%23&t=31&band_rank=2&Refer=top) 389888
 1. [新征程再出发](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%BE%81%E7%A8%8B%E5%86%8D%E5%87%BA%E5%8F%91%23&t=31&band_rank=3&Refer=top) 341217
 1. [当希望工程大眼睛女孩成为奉献者](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%B8%8C%E6%9C%9B%E5%B7%A5%E7%A8%8B%E5%A4%A7%E7%9C%BC%E7%9D%9B%E5%A5%B3%E5%AD%A9%E6%88%90%E4%B8%BA%E5%A5%89%E7%8C%AE%E8%80%85%23&t=31&band_rank=4&Refer=top) 334262
 1. [人民日报社论](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E7%A4%BE%E8%AE%BA%23&t=31&band_rank=5&Refer=top) 276954
-1. [致9671.2万个你](https://s.weibo.com/weibo?q=%23%E8%87%B49671.2%E4%B8%87%E4%B8%AA%E4%BD%A0%23&t=31&band_rank=15&Refer=top) 271034
 1. [二十届中央委员会委员名单](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%B8%AD%E5%A4%AE%E5%A7%94%E5%91%98%E4%BC%9A%E5%A7%94%E5%91%98%E5%90%8D%E5%8D%95%23&t=31&band_rank=1&Refer=top) 224407
 1. [中国共产党又踏上了新的赶考路](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%8F%88%E8%B8%8F%E4%B8%8A%E4%BA%86%E6%96%B0%E7%9A%84%E8%B5%B6%E8%80%83%E8%B7%AF%23&t=31&band_rank=6&Refer=top) 195858
 1. [中国共产党国际形象网宣片12种外语版本](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%9B%BD%E9%99%85%E5%BD%A2%E8%B1%A1%E7%BD%91%E5%AE%A3%E7%89%8712%E7%A7%8D%E5%A4%96%E8%AF%AD%E7%89%88%E6%9C%AC%23&t=31&band_rank=4&Refer=top) 175730
@@ -38,6 +38,7 @@
 1. [代表热议如何提升群众幸福指数](https://s.weibo.com/weibo?q=%23%E4%BB%A3%E8%A1%A8%E7%83%AD%E8%AE%AE%E5%A6%82%E4%BD%95%E6%8F%90%E5%8D%87%E7%BE%A4%E4%BC%97%E5%B9%B8%E7%A6%8F%E6%8C%87%E6%95%B0%23&t=31&band_rank=5&Refer=top) 82935
 1. [二十大关于党章修正案的决议](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E5%85%B3%E4%BA%8E%E5%85%9A%E7%AB%A0%E4%BF%AE%E6%AD%A3%E6%A1%88%E7%9A%84%E5%86%B3%E8%AE%AE%23&t=31&band_rank=6&Refer=top) 82828
 1. [未来中国先导片](https://s.weibo.com/weibo?q=%23%E6%9C%AA%E6%9D%A5%E4%B8%AD%E5%9B%BD%E5%85%88%E5%AF%BC%E7%89%87%23&t=31&band_rank=9&Refer=top) 70704
+1. [一组图看新征程上我们要怎么做](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%BB%84%E5%9B%BE%E7%9C%8B%E6%96%B0%E5%BE%81%E7%A8%8B%E4%B8%8A%E6%88%91%E4%BB%AC%E8%A6%81%E6%80%8E%E4%B9%88%E5%81%9A%23&t=31&band_rank=8&Refer=top) 65684
 1. [这里有一个你不知道的十年](https://s.weibo.com/weibo?q=%23%E8%BF%99%E9%87%8C%E6%9C%89%E4%B8%80%E4%B8%AA%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E5%8D%81%E5%B9%B4%23&t=31&band_rank=9&Refer=top) 65474
 1. [10年家访骑坏了8辆摩托车](https://s.weibo.com/weibo?q=%2310%E5%B9%B4%E5%AE%B6%E8%AE%BF%E9%AA%91%E5%9D%8F%E4%BA%868%E8%BE%86%E6%91%A9%E6%89%98%E8%BD%A6%23&t=31&band_rank=8&Refer=top) 54436
 1. [努力创造更加灿烂的明天](https://s.weibo.com/weibo?q=%23%E5%8A%AA%E5%8A%9B%E5%88%9B%E9%80%A0%E6%9B%B4%E5%8A%A0%E7%81%BF%E7%83%82%E7%9A%84%E6%98%8E%E5%A4%A9%23&t=31&band_rank=11&Refer=top) 53000
@@ -91,6 +92,9 @@
 1. [炽道](https://s.weibo.com/weibo?q=%E7%82%BD%E9%81%93&t=31&band_rank=44&Refer=top) 16240
 1. [二十大关于十九届中央委员会报告的决议](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E5%85%B3%E4%BA%8E%E5%8D%81%E4%B9%9D%E5%B1%8A%E4%B8%AD%E5%A4%AE%E5%A7%94%E5%91%98%E4%BC%9A%E6%8A%A5%E5%91%8A%E7%9A%84%E5%86%B3%E8%AE%AE%23&t=31&band_rank=19&Refer=top) 13272
 1. [二十大第二场党代表通道](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E7%AC%AC%E4%BA%8C%E5%9C%BA%E5%85%9A%E4%BB%A3%E8%A1%A8%E9%80%9A%E9%81%93%23&t=31&band_rank=20&Refer=top) 12178
+1. [长风渡](https://s.weibo.com/weibo?q=%E9%95%BF%E9%A3%8E%E6%B8%A1&t=31&band_rank=23&Refer=top) 11190
+1. [当老师3年的变化有多大](https://s.weibo.com/weibo?q=%23%E5%BD%93%E8%80%81%E5%B8%883%E5%B9%B4%E7%9A%84%E5%8F%98%E5%8C%96%E6%9C%89%E5%A4%9A%E5%A4%A7%23&t=31&band_rank=34&Refer=top) 11186
+1. [女子22年照料1029名孤弃儿童](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%9022%E5%B9%B4%E7%85%A7%E6%96%991029%E5%90%8D%E5%AD%A4%E5%BC%83%E5%84%BF%E7%AB%A5%23&t=31&band_rank=50&Refer=top) 11181
 1. [二十大报告中的关键论述](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E6%8A%A5%E5%91%8A%E4%B8%AD%E7%9A%84%E5%85%B3%E9%94%AE%E8%AE%BA%E8%BF%B0%23&t=31&band_rank=20&Refer=top) 11005
 1. [印度一病人输血时错输果汁后死亡](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E4%B8%80%E7%97%85%E4%BA%BA%E8%BE%93%E8%A1%80%E6%97%B6%E9%94%99%E8%BE%93%E6%9E%9C%E6%B1%81%E5%90%8E%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=23&Refer=top) 10208
 1. [女子投简历后发现HR是室友](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8A%95%E7%AE%80%E5%8E%86%E5%90%8E%E5%8F%91%E7%8E%B0HR%E6%98%AF%E5%AE%A4%E5%8F%8B%23&t=31&band_rank=24&Refer=top) 10195
