@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-10-25 05:25:07
+最后更新时间 2022-10-25 06:27:09
 
 1. [共同富裕不是平均主义不是劫富济贫](https://s.weibo.com/weibo?q=%23%E5%85%B1%E5%90%8C%E5%AF%8C%E8%A3%95%E4%B8%8D%E6%98%AF%E5%B9%B3%E5%9D%87%E4%B8%BB%E4%B9%89%E4%B8%8D%E6%98%AF%E5%8A%AB%E5%AF%8C%E6%B5%8E%E8%B4%AB%23&t=31&band_rank=1&Refer=top) 365248
 1. [防止领导干部成为利益集团和权势团体代言人](https://s.weibo.com/weibo?q=%23%E9%98%B2%E6%AD%A2%E9%A2%86%E5%AF%BC%E5%B9%B2%E9%83%A8%E6%88%90%E4%B8%BA%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2%E5%92%8C%E6%9D%83%E5%8A%BF%E5%9B%A2%E4%BD%93%E4%BB%A3%E8%A8%80%E4%BA%BA%23&t=31&band_rank=2&Refer=top) 28114
@@ -72,11 +72,12 @@
 1. [刘宇宁直播唱浮生](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E7%9B%B4%E6%92%AD%E5%94%B1%E6%B5%AE%E7%94%9F%23&t=31&band_rank=36&Refer=top) 14058
 1. [苏纳克当选英国保守党党首](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BA%B3%E5%85%8B%E5%BD%93%E9%80%89%E8%8B%B1%E5%9B%BD%E4%BF%9D%E5%AE%88%E5%85%9A%E5%85%9A%E9%A6%96%23&t=31&band_rank=49&Refer=top) 14039
 1. [那位培养大师的大师走了](https://s.weibo.com/weibo?q=%23%E9%82%A3%E4%BD%8D%E5%9F%B9%E5%85%BB%E5%A4%A7%E5%B8%88%E7%9A%84%E5%A4%A7%E5%B8%88%E8%B5%B0%E4%BA%86%23&t=31&band_rank=50&Refer=top) 14038
-1. [莲花楼单人海报](https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E6%A5%BC%E5%8D%95%E4%BA%BA%E6%B5%B7%E6%8A%A5%23&t=31&band_rank=50&Refer=top) 7836
+1. [梅西最后一舞](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E6%9C%80%E5%90%8E%E4%B8%80%E8%88%9E%23&t=31&band_rank=15&Refer=top) 10408
+1. [8岁女孩吹葫芦丝遭狗狗一掌拍落](https://s.weibo.com/weibo?q=%238%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%90%B9%E8%91%AB%E8%8A%A6%E4%B8%9D%E9%81%AD%E7%8B%97%E7%8B%97%E4%B8%80%E6%8E%8C%E6%8B%8D%E8%90%BD%23&t=31&band_rank=39&Refer=top) 10350
+1. [赵立坚发文推荐重庆洪崖洞](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%AB%8B%E5%9D%9A%E5%8F%91%E6%96%87%E6%8E%A8%E8%8D%90%E9%87%8D%E5%BA%86%E6%B4%AA%E5%B4%96%E6%B4%9E%23&t=31&band_rank=21&Refer=top) 9895
+1. [女子回看结婚录像5毛特效仿佛穿越](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9B%9E%E7%9C%8B%E7%BB%93%E5%A9%9A%E5%BD%95%E5%83%8F5%E6%AF%9B%E7%89%B9%E6%95%88%E4%BB%BF%E4%BD%9B%E7%A9%BF%E8%B6%8A%23&t=31&band_rank=48&Refer=top) 9670
+1. [莲花楼单人海报](https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E6%A5%BC%E5%8D%95%E4%BA%BA%E6%B5%B7%E6%8A%A5%23&t=31&band_rank=50&Refer=top) 9642
 1. [一代人有一代人的八点回忆](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BB%A3%E4%BA%BA%E6%9C%89%E4%B8%80%E4%BB%A3%E4%BA%BA%E7%9A%84%E5%85%AB%E7%82%B9%E5%9B%9E%E5%BF%86%23&t=31&band_rank=35&Refer=top) 6199
-1. [梅西最后一舞](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E6%9C%80%E5%90%8E%E4%B8%80%E8%88%9E%23&t=31&band_rank=15&Refer=top) 6199
-1. [赵立坚发文推荐重庆洪崖洞](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%AB%8B%E5%9D%9A%E5%8F%91%E6%96%87%E6%8E%A8%E8%8D%90%E9%87%8D%E5%BA%86%E6%B4%AA%E5%B4%96%E6%B4%9E%23&t=31&band_rank=21&Refer=top) 6199
-1. [8岁女孩吹葫芦丝遭狗狗一掌拍落](https://s.weibo.com/weibo?q=%238%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%90%B9%E8%91%AB%E8%8A%A6%E4%B8%9D%E9%81%AD%E7%8B%97%E7%8B%97%E4%B8%80%E6%8E%8C%E6%8B%8D%E8%90%BD%23&t=31&band_rank=39&Refer=top) 6199
 1. [四六级成绩10月25日开通查询](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%85%AD%E7%BA%A7%E6%88%90%E7%BB%A910%E6%9C%8825%E6%97%A5%E5%BC%80%E9%80%9A%E6%9F%A5%E8%AF%A2%23&t=31&band_rank=50&Refer=top) 6198
 <!-- Rank End -->
 
