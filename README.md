@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-10-26 05:24:03
+最后更新时间 2022-10-26 06:27:34
 
 1. [全校仅1名老师4名学生每周升国旗](https://s.weibo.com/weibo?q=%23%E5%85%A8%E6%A0%A1%E4%BB%851%E5%90%8D%E8%80%81%E5%B8%884%E5%90%8D%E5%AD%A6%E7%94%9F%E6%AF%8F%E5%91%A8%E5%8D%87%E5%9B%BD%E6%97%97%23&t=31&band_rank=1&Refer=top) 332090
 1. [女子上门为年轻人代厨4菜1汤66元](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%8A%E9%97%A8%E4%B8%BA%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%BB%A3%E5%8E%A84%E8%8F%9C1%E6%B1%A466%E5%85%83%23&t=31&band_rank=2&Refer=top) 134514
@@ -53,8 +53,12 @@
 1. [武汉全城拉响防空警报](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E5%85%A8%E5%9F%8E%E6%8B%89%E5%93%8D%E9%98%B2%E7%A9%BA%E8%AD%A6%E6%8A%A5%23&t=31&band_rank=32&Refer=top) 70122
 1. [就没有张雨绮不能拿捏的梗](https://s.weibo.com/weibo?q=%23%E5%B0%B1%E6%B2%A1%E6%9C%89%E5%BC%A0%E9%9B%A8%E7%BB%AE%E4%B8%8D%E8%83%BD%E6%8B%BF%E6%8D%8F%E7%9A%84%E6%A2%97%23&t=31&band_rank=8&Refer=top) 69340
 1. [这就是被财神爷吻过的嗓音吧](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E8%A2%AB%E8%B4%A2%E7%A5%9E%E7%88%B7%E5%90%BB%E8%BF%87%E7%9A%84%E5%97%93%E9%9F%B3%E5%90%A7%23&t=31&band_rank=33&Refer=top) 63856
+1. [外交部提醒中国公民近期暂勿前往利比亚](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E8%BF%91%E6%9C%9F%E6%9A%82%E5%8B%BF%E5%89%8D%E5%BE%80%E5%88%A9%E6%AF%94%E4%BA%9A%23&t=31&band_rank=34&Refer=top) 63525
 1. [梁朝伟王一博程耳智族GQ十月封面](https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%9C%9D%E4%BC%9F%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%A8%8B%E8%80%B3%E6%99%BA%E6%97%8FGQ%E5%8D%81%E6%9C%88%E5%B0%81%E9%9D%A2%23&t=31&band_rank=34&Refer=top) 60565
+1. [6岁女孩上网课疯狂举手求答题](https://s.weibo.com/weibo?q=%236%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%8A%E7%BD%91%E8%AF%BE%E7%96%AF%E7%8B%82%E4%B8%BE%E6%89%8B%E6%B1%82%E7%AD%94%E9%A2%98%23&t=31&band_rank=43&Refer=top) 59055
 1. [iPhone15将被强制使用USB-C](https://s.weibo.com/weibo?q=%23iPhone15%E5%B0%86%E8%A2%AB%E5%BC%BA%E5%88%B6%E4%BD%BF%E7%94%A8USB-C%23&t=31&band_rank=35&Refer=top) 58920
+1. [14个月宝宝吃饭全家变气氛组](https://s.weibo.com/weibo?q=%2314%E4%B8%AA%E6%9C%88%E5%AE%9D%E5%AE%9D%E5%90%83%E9%A5%AD%E5%85%A8%E5%AE%B6%E5%8F%98%E6%B0%94%E6%B0%9B%E7%BB%84%23&t=31&band_rank=7&Refer=top) 56775
+1. [世界杯将是莫德里奇国家队谢幕战](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%86%E6%98%AF%E8%8E%AB%E5%BE%B7%E9%87%8C%E5%A5%87%E5%9B%BD%E5%AE%B6%E9%98%9F%E8%B0%A2%E5%B9%95%E6%88%98%23&t=31&band_rank=49&Refer=top) 54595
 1. [gidle新歌nxde一位](https://s.weibo.com/weibo?q=%23gidle%E6%96%B0%E6%AD%8Cnxde%E4%B8%80%E4%BD%8D%23&t=31&band_rank=36&Refer=top) 54509
 1. [秦岚蓝盈莹合照](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E8%93%9D%E7%9B%88%E8%8E%B9%E5%90%88%E7%85%A7%23&t=31&band_rank=37&Refer=top) 54146
 1. [插排掉鱼缸26条兰寿金鱼被煮熟](https://s.weibo.com/weibo?q=%23%E6%8F%92%E6%8E%92%E6%8E%89%E9%B1%BC%E7%BC%B826%E6%9D%A1%E5%85%B0%E5%AF%BF%E9%87%91%E9%B1%BC%E8%A2%AB%E7%85%AE%E7%86%9F%23&t=31&band_rank=38&Refer=top) 50905
@@ -63,6 +67,7 @@
 1. [刘耀文说三周年后会发新歌](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E8%AF%B4%E4%B8%89%E5%91%A8%E5%B9%B4%E5%90%8E%E4%BC%9A%E5%8F%91%E6%96%B0%E6%AD%8C%23&t=31&band_rank=41&Refer=top) 49279
 1. [当主人给正在舔毛的猫咪配音](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%B8%BB%E4%BA%BA%E7%BB%99%E6%AD%A3%E5%9C%A8%E8%88%94%E6%AF%9B%E7%9A%84%E7%8C%AB%E5%92%AA%E9%85%8D%E9%9F%B3%23&t=31&band_rank=42&Refer=top) 46570
 1. [半成品火锅好吃吗](https://s.weibo.com/weibo?q=%23%E5%8D%8A%E6%88%90%E5%93%81%E7%81%AB%E9%94%85%E5%A5%BD%E5%90%83%E5%90%97%23&t=31&band_rank=43&Refer=top) 45966
+1. [被业内认可的原声台词](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%B8%9A%E5%86%85%E8%AE%A4%E5%8F%AF%E7%9A%84%E5%8E%9F%E5%A3%B0%E5%8F%B0%E8%AF%8D%23&t=31&band_rank=16&Refer=top) 45314
 1. [1岁萌娃给睡着妈妈盖被后转身入睡](https://s.weibo.com/weibo?q=%231%E5%B2%81%E8%90%8C%E5%A8%83%E7%BB%99%E7%9D%A1%E7%9D%80%E5%A6%88%E5%A6%88%E7%9B%96%E8%A2%AB%E5%90%8E%E8%BD%AC%E8%BA%AB%E5%85%A5%E7%9D%A1%23&t=31&band_rank=44&Refer=top) 42475
 1. [女子骑车载孩子抢道被货车撞倒](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%AA%91%E8%BD%A6%E8%BD%BD%E5%AD%A9%E5%AD%90%E6%8A%A2%E9%81%93%E8%A2%AB%E8%B4%A7%E8%BD%A6%E6%92%9E%E5%80%92%23&t=31&band_rank=45&Refer=top) 41351
 1. [韩国新恋综社内恋爱](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%96%B0%E6%81%8B%E7%BB%BC%E7%A4%BE%E5%86%85%E6%81%8B%E7%88%B1%23&t=31&band_rank=46&Refer=top) 41090
@@ -71,12 +76,8 @@
 1. [老干妈跌出贵州民企前10](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B9%B2%E5%A6%88%E8%B7%8C%E5%87%BA%E8%B4%B5%E5%B7%9E%E6%B0%91%E4%BC%81%E5%89%8D10%23&t=31&band_rank=49&Refer=top) 33263
 1. [数学好真的可以拿捏一切](https://s.weibo.com/weibo?q=%23%E6%95%B0%E5%AD%A6%E5%A5%BD%E7%9C%9F%E7%9A%84%E5%8F%AF%E4%BB%A5%E6%8B%BF%E6%8D%8F%E4%B8%80%E5%88%87%23&t=31&band_rank=50&Refer=top) 30680
 1. [周深演唱过的影视剧歌曲](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%BC%94%E5%94%B1%E8%BF%87%E7%9A%84%E5%BD%B1%E8%A7%86%E5%89%A7%E6%AD%8C%E6%9B%B2%23&t=31&band_rank=34&Refer=top) 28600
-1. [6岁女孩上网课疯狂举手求答题](https://s.weibo.com/weibo?q=%236%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%8A%E7%BD%91%E8%AF%BE%E7%96%AF%E7%8B%82%E4%B8%BE%E6%89%8B%E6%B1%82%E7%AD%94%E9%A2%98%23&t=31&band_rank=43&Refer=top) 23913
-1. [14个月宝宝吃饭全家变气氛组](https://s.weibo.com/weibo?q=%2314%E4%B8%AA%E6%9C%88%E5%AE%9D%E5%AE%9D%E5%90%83%E9%A5%AD%E5%85%A8%E5%AE%B6%E5%8F%98%E6%B0%94%E6%B0%9B%E7%BB%84%23&t=31&band_rank=7&Refer=top) 22386
 1. [苏纳克发表就职演讲](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BA%B3%E5%85%8B%E5%8F%91%E8%A1%A8%E5%B0%B1%E8%81%8C%E6%BC%94%E8%AE%B2%23&t=31&band_rank=50&Refer=top) 19753
-1. [莲花楼](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC&t=31&band_rank=31&Refer=top) 16802
-1. [外交部提醒中国公民近期暂勿前往利比亚](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E8%BF%91%E6%9C%9F%E6%9A%82%E5%8B%BF%E5%89%8D%E5%BE%80%E5%88%A9%E6%AF%94%E4%BA%9A%23&t=31&band_rank=34&Refer=top) 11701
-1. [世界杯将是莫德里奇国家队谢幕战](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%86%E6%98%AF%E8%8E%AB%E5%BE%B7%E9%87%8C%E5%A5%87%E5%9B%BD%E5%AE%B6%E9%98%9F%E8%B0%A2%E5%B9%95%E6%88%98%23&t=31&band_rank=49&Refer=top) 9197
+1. [莲花楼](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC&t=31&band_rank=31&Refer=top) 18096
 1. [齐达内即将复出执教](https://s.weibo.com/weibo?q=%23%E9%BD%90%E8%BE%BE%E5%86%85%E5%8D%B3%E5%B0%86%E5%A4%8D%E5%87%BA%E6%89%A7%E6%95%99%23&t=31&band_rank=50&Refer=top) 9196
 <!-- Rank End -->
 
