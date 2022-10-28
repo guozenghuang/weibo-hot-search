@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-10-29 01:25:43
+最后更新时间 2022-10-29 03:18:18
 
 1. [林孝埈](https://s.weibo.com/weibo?q=%E6%9E%97%E5%AD%9D%E5%9F%88&t=31&band_rank=1&Refer=top) 2002740
 1. [贪便宜买了个电动牙刷](https://s.weibo.com/weibo?q=%23%E8%B4%AA%E4%BE%BF%E5%AE%9C%E4%B9%B0%E4%BA%86%E4%B8%AA%E7%94%B5%E5%8A%A8%E7%89%99%E5%88%B7%23&t=31&band_rank=2&Refer=top) 614025
@@ -71,8 +71,10 @@
 1. [王楚钦vs莫雷加德](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E8%8E%AB%E9%9B%B7%E5%8A%A0%E5%BE%B7%23&t=31&band_rank=49&Refer=top) 61108
 1. [黄河入海口的传统色调](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B2%B3%E5%85%A5%E6%B5%B7%E5%8F%A3%E7%9A%84%E4%BC%A0%E7%BB%9F%E8%89%B2%E8%B0%83%23&t=31&band_rank=50&Refer=top) 61101
 1. [普京称特拉斯脑子不太正常](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E7%89%B9%E6%8B%89%E6%96%AF%E8%84%91%E5%AD%90%E4%B8%8D%E5%A4%AA%E6%AD%A3%E5%B8%B8%23&t=31&band_rank=31&Refer=top) 59639
+1. [美股六大科技巨头一夜蒸发2万亿](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%85%AD%E5%A4%A7%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%912%E4%B8%87%E4%BA%BF%23&t=31&band_rank=12&Refer=top) 39906
 1. [美丽战场](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%B8%BD%E6%88%98%E5%9C%BA%23&t=31&band_rank=47&Refer=top) 31337
 1. [30岁了依然期待爱情](https://s.weibo.com/weibo?q=%2330%E5%B2%81%E4%BA%86%E4%BE%9D%E7%84%B6%E6%9C%9F%E5%BE%85%E7%88%B1%E6%83%85%23&t=31&band_rank=50&Refer=top) 28499
+1. [那英在上一种很新的菜](https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%E5%9C%A8%E4%B8%8A%E4%B8%80%E7%A7%8D%E5%BE%88%E6%96%B0%E7%9A%84%E8%8F%9C%23&t=31&band_rank=48&Refer=top) 12884
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
